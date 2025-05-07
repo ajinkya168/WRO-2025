@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="redgreenclassifier">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/redgreenclassifier.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

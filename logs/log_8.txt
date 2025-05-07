@@ -1,0 +1,5009 @@
+Resetting....
+Reset Complete
+######################## LOGS ############################
+r:62 g:25 b:12
+hsv_r:75.0 hsv_g: 80.0 hsv_b:40
+ fps33:5.786222255988525e-10 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:72.4893105891706 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:70.01241904253189 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:72.88357545005908 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:84.0 hsv_g: 82.0 hsv_b:39
+ fps33:65.30030670548489 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:83.97005005005005 color: None
+color:None
+r:61 g:25 b:12
+hsv_r:77.0 hsv_g: 79.0 hsv_b:39
+ fps33:65.56570946210002 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:77.48003103410056 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:76.1963448751953 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:72.67772175148585 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:82.30580847723705 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:78.76035602959402 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:81.19055361982191 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.79892911372173 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:86.02818172495128 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:85.44807073299923 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:85.57708316330695 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:85.50729837723233 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:82.02252816020025 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:76.19496066997293 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:78.1004022046775 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:72.26948326067853 color: None
+color:None
+r:61 g:25 b:12
+hsv_r:77.0 hsv_g: 79.0 hsv_b:39
+ fps33:66.78828025477706 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:78.27822776305476 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:71.5898136137093 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:59.025654737612406 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:45.10392291810048 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:79.36692716710503 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:77.74860511242515 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:69.92954200636889 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:79.35941875425718 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:78.17901211556384 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:79.40599382821226 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:100.06689729213885 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:82.99800138517858 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.61683379517952 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.52857768749752 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:90.0 hsv_g: 80.0 hsv_b:41
+ fps33:71.68035000170899 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:68.54894013434226 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:78.64221697228784 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:90.0 hsv_g: 80.0 hsv_b:41
+ fps33:78.77071008695326 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:77.9972849837285 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:82.2106274133166 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:82.79157537356151 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:90.0 hsv_g: 80.0 hsv_b:41
+ fps33:82.73768098788811 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.25831232506899 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:81.1340142370783 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:82.65615639287404 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.41229814652772 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.25004962089635 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.46541431186819 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.53190472397037 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.75876667465452 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.17410962163878 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:82.38987978313821 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.80730113693129 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.59350274040857 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.53190472397037 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:81.75393731482926 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:81.1010692808941 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.20380876810157 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:82.61382706322631 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.0390310364864 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:80.91644641651393 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:79.89302653383874 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:79.82308497478351 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:76.02233016747626 color: None
+color:None
+r:63 g:26 b:10
+hsv_r:88.0 hsv_g: 82.0 hsv_b:41
+ fps33:49.81358669833729 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:89.18737773241473 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:74.46743839215965 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:79.4270456568258 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:76.07610686884443 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:71.8387257000942 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:90.0 hsv_g: 80.0 hsv_b:41
+ fps33:60.501168392810776 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:79.64725318546932 color: None
+color:None
+r:60 g:27 b:12
+hsv_r:96.0 hsv_g: 79.0 hsv_b:39
+ fps33:65.0683214396525 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:72.27820093055317 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:76.29336437718277 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:56.445610776912 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:79.23199274609442 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:64.19885815743957 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.05716944889998 color: None
+color:None
+r:60 g:26 b:12
+hsv_r:90.0 hsv_g: 78.0 hsv_b:38
+ fps33:67.52916552623529 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:74.22627285115118 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:86.72188566111858 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:77.19483196525196 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:69.01023396623778 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:56.22919040660652 color: None
+color:None
+r:64 g:25 b:10
+hsv_r:81.0 hsv_g: 84.0 hsv_b:44
+ fps33:65.01184202368405 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:76.077486759051 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:76.89339468715053 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:62.68388330942133 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:71.00445226930304 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:68.78727347273473 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:77.9161449722279 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:76.5551580638096 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:64.29924422437185 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:70.81384433564072 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:74.69421046070558 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:79.70779726725071 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:63.887892035155595 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:72.4379814168768 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:80.41072832192634 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:76.05127740204166 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:74.92236790396913 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:79.98138860815011 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:67.58574904526338 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:78.72487705994969 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.18895654415994 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:81.71889490706465 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:90.0 hsv_g: 80.0 hsv_b:41
+ fps33:81.23300989677145 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.39571320634668 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:80.25532891967396 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:82.8259083728278 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:90.0 hsv_g: 80.0 hsv_b:41
+ fps33:76.27255369060391 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.9683690016216 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:81.6234772116919 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.5642855702736 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.29745156363052 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:90.0 hsv_g: 80.0 hsv_b:41
+ fps33:82.16392414981978 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:84.02387916182539 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.88608 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:82.27351902706944 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.29067524115756 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.17057654873473 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.13124826574702 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.46551342207543 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.27881929792835 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.96164548093284 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.63424674119214 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:81.77944158477617 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.41727491497782 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.5847500352915 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.29914581449101 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.26161786600497 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.27712586400901 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.19423088503925 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.33606199086032 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.42640901771337 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.05250395783652 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.06045903717053 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.0744066709429 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:81.47127151237326 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.11806904205145 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.31439713745829 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.50197093370495 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.67354918506992 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.83967798050082 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.67354395881699 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.22128069717476 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.45360824742268 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:82.05141046206816 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.4073219718814 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:83.90453899857968 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.0137809470395 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:76.87366433899672 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.97677491691026 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:84.76081157545873 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:78.52884237329388 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.91353375847758 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.4791234465951 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:78.76627230046948 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.19423088503925 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:80.81666313416443 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.18565676999663 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.37036590026753 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:81.63777565836853 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:78.6731941552717 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.4111171486647 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.71362992235994 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.20050781559947 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:84.52168305658552 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+fps 2222:5.786222255971623e-10
+Resetting setPoints...False
+average ::: r_pass:3.5 l_pass:5.6000000000000005 h:19.3 l:8.4 r:5.25
+fps 2222:15.904262822214301
+Resetting setPoints...False
+average ::: r_pass:8.225000000000001 l_pass:13.16 h:36.77 l:15.54 r:9.712499999999999
+fps 2222:16.26891017062887
+Resetting setPoints...False
+average ::: r_pass:12.241249999999999 l_pass:19.586 h:52.693000000000005 l:21.609 r:13.505624999999998
+fps 2222:16.242638288644144
+Resetting setPoints...False
+average ::: r_pass:15.6550625 l_pass:25.048100000000005 h:67.3237 l:26.767650000000003 r:16.72978125
+fps 2222:16.081899014221136
+Resetting setPoints...False
+average ::: r_pass:18.556803125 l_pass:29.690885000000005 h:80.59133 l:31.152502500000004 r:19.470314062499998
+fps 2222:15.169547369753522
+Resetting setPoints...False
+average ::: r_pass:21.02328265625 l_pass:33.63725225 h:92.432197 l:34.879627125000006 r:21.799766953124998
+fps 2222:16.05721067340454
+Resetting setPoints...False
+average ::: r_pass:23.119790257812497 l_pass:36.99166441250001 h:103.08897730000001 l:38.04768305625 r:23.779801910156248
+fps 2222:16.222346848397414
+Resetting setPoints...False
+average ::: r_pass:24.901821719140624 l_pass:39.842914750625006 h:112.78007957000001 l:40.7405305978125 r:25.46283162363281
+fps 2222:16.08695685525473
+Resetting setPoints...False
+average ::: r_pass:26.416548461269528 l_pass:42.26647753803125 h:121.50207161300001 l:43.029451008140626 r:26.893406880087888
+fps 2222:16.221154813010017
+Resetting setPoints...False
+average ::: r_pass:27.7040661920791 l_pass:44.32650590732656 h:129.25186445170002 l:44.97503335691953 r:28.109395848074705
+fps 2222:16.361183817878974
+Resetting setPoints...False
+average ::: r_pass:28.798456263267234 l_pass:46.07753002122758 h:136.22667800653002 l:46.6287783533816 r:29.142986470863498
+fps 2222:16.381952255968002
+Resetting setPoints...False
+average ::: r_pass:29.72868782377715 l_pass:47.56590051804344 h:142.60401020587702 l:48.03446160037436 r:30.021538500233973
+fps 2222:16.341295598611442
+Resetting setPoints...False
+average ::: r_pass:30.519384650210576 l_pass:48.83101544033693 h:148.24360918528933 l:49.2292923603182 r:30.768307725198877
+fps 2222:16.343333190459678
+Resetting setPoints...False
+average ::: r_pass:31.19147695267899 l_pass:49.90636312428638 h:153.3192482667604 l:50.24489850627047 r:31.403061566419044
+fps 2222:16.189410870127414
+Resetting setPoints...False
+average ::: r_pass:31.76275540977714 l_pass:50.72040865564342 h:157.88732344008437 l:50.95816373032989 r:31.942602331456186
+fps 2222:15.228645496728657
+Resetting setPoints...False
+average ::: r_pass:32.24834209831057 l_pass:51.462347357296906 h:161.99859109607596 l:51.71443917078041 r:32.40121198173776
+fps 2222:16.1277824560594
+Resetting setPoints...False
+average ::: r_pass:32.661090783563985 l_pass:52.04299525370237 h:165.79873198646837 l:52.20727329516335 r:32.791030184477094
+fps 2222:15.885168478898951
+Resetting setPoints...False
+average ::: r_pass:33.01192716602938 l_pass:52.58654596564701 h:169.11885878782155 l:52.77618230088884 r:33.12237565680553
+fps 2222:15.909390563540018
+Resetting setPoints...False
+average ::: r_pass:33.31013809112498 l_pass:53.09856407079996 h:172.2069729090394 l:53.25975495575551 r:33.4040193082847
+fps 2222:14.971476300450112
+Resetting setPoints...False
+average ::: r_pass:33.56361737745623 l_pass:53.533779460179964 h:174.88627561813547 l:53.67079171239218 r:33.643416412042
+fps 2222:15.920864538218312
+Resetting setPoints...False
+average ::: r_pass:33.7790747708378 l_pass:53.90371254115296 h:177.29764805632195 l:54.02017295553335 r:33.8469039502357
+fps 2222:16.09343800600103
+Resetting setPoints...False
+average ::: r_pass:33.96221355521213 l_pass:54.21815565998001 h:179.46788325068977 l:54.31714701220334 r:34.01986835770035
+fps 2222:15.965710848968623
+Resetting setPoints...False
+average ::: r_pass:34.117881521930315 l_pass:54.48543231098301 h:181.4210949256208 l:54.56957496037284 r:34.1668881040453
+fps 2222:16.338749323163583
+Resetting setPoints...False
+average ::: r_pass:34.25019929364077 l_pass:54.71261746433556 h:183.17898543305873 l:54.78413871631691 r:34.29185488843851
+fps 2222:16.364439381052335
+Resetting setPoints...False
+average ::: r_pass:34.36266939959466 l_pass:54.905724844685224 h:184.76108688975287 l:54.96651790886937 r:34.39807665517273
+fps 2222:16.325330842285535
+Resetting setPoints...False
+average ::: r_pass:34.45826898965546 l_pass:55.069866117982436 h:186.1849782007776 l:55.12154022253896 r:34.48836515689682
+fps 2222:16.35301869505039
+Resetting setPoints...False
+average ::: r_pass:34.53952864120714 l_pass:55.20938620028507 h:187.46648038069986 l:55.25330918915812 r:34.565110383362295
+fps 2222:16.352317385066435
+Resetting setPoints...False
+average ::: r_pass:34.608599345026064 l_pass:55.327978270242305 h:188.61983234262988 l:55.365312810784395 r:34.63034382585795
+fps 2222:16.336967402439072
+Resetting setPoints...False
+average ::: r_pass:34.66730944327216 l_pass:55.42878152970596 h:189.6578491083669 l:55.460515889166736 r:34.68579225197925
+fps 2222:16.34893918900483
+Resetting setPoints...False
+average ::: r_pass:34.71721302678132 l_pass:55.51446430025006 h:190.59206419753022 l:55.541438505791724 r:34.732923414182366
+fps 2222:16.349512746550246
+Resetting setPoints...False
+average ::: r_pass:34.85963107276413 l_pass:55.58729465521255 h:191.4328577777772 l:55.61022272992296 r:34.92298490205501
+fps 2222:16.33709466960095
+Resetting setPoints...False
+average ::: r_pass:34.930686411849514 l_pass:55.649200456930664 h:192.1895719999995 l:55.66868932043451 r:34.934537166746765
+fps 2222:16.339513122475136
+Resetting setPoints...False
+average ::: r_pass:34.941083450072085 l_pass:55.70182038839106 h:192.87061479999954 l:55.71838592236933 r:34.944356591734746
+fps 2222:16.326665343189347
+Resetting setPoints...False
+average ::: r_pass:34.94992093256127 l_pass:55.7465473301324 h:193.4835533199996 l:55.760628034013926 r:34.95270310297453
+fps 2222:16.340340652319583
+Resetting setPoints...False
+average ::: r_pass:34.95743279267708 l_pass:55.784565230612536 h:194.03519798799965 l:55.79653382891183 r:34.959797637528354
+fps 2222:16.331051668418798
+Resetting setPoints...False
+average ::: r_pass:34.96381787377552 l_pass:55.71688044602065 h:194.5316781891997 l:55.677053754575056 r:34.965827991899104
+fps 2222:16.332641498413192
+Resetting setPoints...False
+average ::: r_pass:34.969245192709195 l_pass:55.70934837911755 h:194.97851037027974 l:55.725495691388794 r:34.970953793114234
+fps 2222:16.317836273235866
+Resetting setPoints...False
+average ::: r_pass:34.973858413802816 l_pass:55.75294612224992 h:195.38065933325177 l:55.76667133768047 r:34.97531072414709
+fps 2222:16.328445017148685
+Resetting setPoints...False
+average ::: r_pass:34.977779651732384 l_pass:55.790004203912424 h:195.7425933999266 l:55.801670637028394 r:34.97901411552503
+fps 2222:16.330670155274184
+Resetting setPoints...False
+average ::: r_pass:34.98111270397253 l_pass:55.82150357332556 h:196.06833405993393 l:55.83142004147413 r:34.982161998196275
+fps 2222:16.280276830039863
+Resetting setPoints...False
+average ::: r_pass:35.08394579837665 l_pass:55.84827803732672 h:196.36150065394054 l:55.85670703525301 r:35.13483769846683
+fps 2222:16.30413521266919
+Resetting setPoints...False
+average ::: r_pass:35.12135392862015 l_pass:55.87103633172771 h:196.6253505885465 l:55.87820097996506 r:35.11461204369681
+fps 2222:16.33391358529509
+Resetting setPoints...False
+average ::: r_pass:35.20315083932713 l_pass:55.890380881968554 h:196.86281552969186 l:55.896470832970294 r:35.247420237142286
+fps 2222:16.340276993201783
+Resetting setPoints...False
+average ::: r_pass:35.222678213428054 l_pass:55.906823749673265 h:196.9765339767227 l:55.91200020802475 r:35.21030720157094
+fps 2222:16.324504831999004
+Resetting setPoints...False
+average ::: r_pass:35.18927648141385 l_pass:55.92080018722228 h:197.07888057905043 l:55.925200176821036 r:35.1787611213353
+fps 2222:16.33804923652228
+Resetting setPoints...False
+average ::: r_pass:35.26088500920177 l_pass:55.93268015913893 h:197.1709925211454 l:55.93642015029788 r:35.301946953135
+fps 2222:16.334867780503952
+Resetting setPoints...False
+ fps33:62.48311409715912 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:81.33382458453723 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:76.83704911425798 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.56352479429403 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.16213179227867 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:75.5648758692754 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:85.08061178952492 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.08957677579743 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.26865971510658 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.17057654873473 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.83913008715119 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.78822673243309 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:84.68209166161922 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.20876068799969 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:82.95204002927042 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.00200276381406 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.76545774085317 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.68893106651052 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.40941839404307 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:79.98291380625477 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.87769223077692 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:82.06585924201217 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.45020738533402 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:76.75830389985909 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.7180108667111 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:82.4255001375624 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:80.99300969373962 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.0070501522192 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.82405020284989 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:80.16942543675216 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:83.72031377871814 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:81.34644401776536 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.71972206512079 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:80.47861542299057 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.14113542657786 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:84.41451486304264 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.54355143909969 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.64449467226348 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.0659811997675 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:79.21702834910383 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:76.98230673225167 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.60863776652613 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:79.21403614799146 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:80.18321894893805 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.52849657396212 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:80.32603033552934 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.7286701002116 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.44340648278639 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.75040434496117 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:79.90824744232125 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.03908137002574 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:82.72952129233319 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:81.69501957499854 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:81.6234772116919 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:75.90538755270825 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:83.0 hsv_g: 81.0 hsv_b:44
+ fps33:63.21864166641546 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:69.93770426198893 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:65.03099368962897 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:69.32733884297521 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:78.8403007518797 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:77.3442991757178 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:76.60409475279893 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:76.48814647311985 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:73.85638316605036 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:67.38487243750401 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:75.81620331875203 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:55.46920584540104 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:66.41706386280502 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:74.58264132154987 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:55.12872952866644 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:55.863720515176944 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:75.41135223574678 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.3476541541641 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:44.20314690105072 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:67.49330587023687 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:75.15865677525714 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:68.2833374033374 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:70.91081844156284 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:92.82308679679547 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:65.21197798439006 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:70.68138386612966 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:75.52269658065794 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:51.92576911173011 color: None
+color:None
+r:61 g:25 b:12
+hsv_r:77.0 hsv_g: 79.0 hsv_b:39
+ fps33:63.96291212980755 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:77.23605561182211 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:71.45200252125177 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+average ::: r_pass:35.271752257821504 l_pass:55.94277813526809 h:197.25389326903087 l:55.945957127753196 r:35.256654910164755
+fps 2222:15.518251307893237
+Resetting setPoints...False
+average ::: r_pass:35.23098941914828 l_pass:55.95136141497788 h:197.1285039421278 l:55.954063558590214 r:35.21815667364004
+power :100 prev_power10.0
+7
+2 lane: 0, error: 0.0 target:0, x:0.0 y:0.0 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 0.0, y: 0.0 counts: 1, prev_distance: 0, head_d: 191 right_d: 35, left_d: 56, back_d:131 imu: 0.10999999940395355, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:0.9269421832436735
+Resetting setPoints...False
+average ::: r_pass:35.196341006276036 l_pass:55.958657202731196 h:196.515653547915 l:55.96095402480168 r:35.18543317259403
+power :100 prev_power19.0
+7
+2 lane: 0, error: -0.0009523988363285335 target:0, x:0.21827234972946796 y:0.0009523988363285335 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 0.21827234972946796, y: 0.0009523988363285335 counts: 43, prev_distance: 0, head_d: 194 right_d: 35, left_d: 56, back_d:132 imu: 0.25, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.979835365476264
+Resetting setPoints...False
+average ::: r_pass:35.16688985533463 l_pass:55.964858622321515 h:196.2640881931235 l:55.966810921081425 r:35.15761819670493
+power :100 prev_power27.1
+7
+2 lane: 0, error: -0.006470768744647069 target:0, x:0.7046812002484204 y:0.006470768744647069 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 0.7046812002484204, y: 0.006470768744647069 counts: 142, prev_distance: 0, head_d: 197 right_d: 35, left_d: 56, back_d:131 imu: 0.6499999761581421, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:13.221066434668582
+Resetting setPoints...False
+average ::: r_pass:35.14185637703444 l_pass:55.970129828973285 h:196.33767937381117 l:55.97178928291921 r:35.13397546719919
+power :100 prev_power34.39
+7
+2 lane: 0, error: -0.020135919683056336 target:0, x:1.6712284987915451 y:0.020135919683056336 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 1.6712284987915451, y: 0.020135919683056336 counts: 294, prev_distance: 0, head_d: 200 right_d: 35, left_d: 56, back_d:131 imu: 0.8100000023841858, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:13.11896607269645
+Resetting setPoints...False
+average ::: r_pass:35.12057792047928 l_pass:55.974610354627295 h:196.70391143643005 l:55.97602089048133 r:35.11387914711931
+power :100 prev_power40.951
+7
+2 lane: 0, error: -0.03404061097885469 target:0, x:2.76251205614918 y:0.03404061097885469 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 2.76251205614918, y: 0.03404061097885469 counts: 497, prev_distance: 0, head_d: 200 right_d: 35, left_d: 56, back_d:134 imu: 0.7300000190734863, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.64380456277432
+Resetting setPoints...False
+average ::: r_pass:35.10249123240738 l_pass:55.9784188014332 h:196.63352029278704 l:55.97961775690913 r:35.096797275051415
+power :100 prev_power46.8559
+7
+2 lane: 0, error: -0.05278999639930124 target:0, x:4.3901076545049404 y:0.05278999639930124 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 4.3901076545049404, y: 0.05278999639930124 counts: 743, prev_distance: 0, head_d: 195 right_d: 35, left_d: 56, back_d:134 imu: 0.6600000262260437, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.225404496314281
+Resetting setPoints...False
+average ::: r_pass:35.08711754754627 l_pass:55.98165598121822 h:196.47016826350833 l:55.982675093372755 r:35.082277683793706
+power :100 prev_power52.17031
+7
+2 lane: 0, error: -0.06607012628799881 target:0, x:5.942917509244923 y:0.06607012628799881 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 5.942917509244923, y: 0.06607012628799881 counts: 1054, prev_distance: 0, head_d: 189 right_d: 35, left_d: 56, back_d:135 imu: 0.49000000953674316, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:11.721433521876188
+Resetting setPoints...False
+average ::: r_pass:35.074049915414335 l_pass:55.98440758403548 h:195.7231514371575 l:55.98527382936684 r:35.06993603122465
+power :100 prev_power56.953279
+7
+2 lane: 0, error: -0.07986081919418828 target:0, x:8.20045660987388 y:0.07986081919418828 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 8.20045660987388, y: 0.07986081919418828 counts: 1385, prev_distance: 0, head_d: 185 right_d: 35, left_d: 56, back_d:137 imu: 0.3499999940395355, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.61239979071068
+Resetting setPoints...False
+average ::: r_pass:35.06294242810219 l_pass:55.98674644643016 h:194.65083629344176 l:55.98748275496181 r:35.05944562654095
+power :100 prev_power61.2579511
+7
+2 lane: 0, error: -0.08720246340052126 target:0, x:10.414370773480623 y:0.08720246340052126 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 10.414370773480623, y: 0.08720246340052126 counts: 1749, prev_distance: 0, head_d: 185 right_d: 35, left_d: 56, back_d:137 imu: 0.1899999976158142, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.134751362673734
+Resetting setPoints...False
+average ::: r_pass:35.053501063886856 l_pass:55.988734479465634 h:193.68575266409758 l:55.989360341717536 r:35.05052878255981
+power :100 prev_power65.13215599
+7
+2 lane: 0, error: -0.08886998282442742 target:0, x:12.802916069967104 y:0.08886998282442742 not reverse
+absolute is 0
+ fps33:71.63015967893433 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:76.68112179604373 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:71.38633307803592 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:67.05093199475652 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:59.173048164555176 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:56.67901785111012 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:49.05503964819536 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:39.04184080944979 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:67.51286095998455 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:73.6786410666292 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:78.08004765627909 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:75.39373022720736 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:71.84980128820062 color: None
+color:None
+r:62 g:26 b:11
+hsv_r:85.0 hsv_g: 81.0 hsv_b:43
+ fps33:62.37718058922383 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:59.91434897507321 color: None
+color:None
+r:62 g:26 b:11
+hsv_r:85.0 hsv_g: 81.0 hsv_b:43
+ fps33:46.57439815226081 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:43.317951789808525 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:58.52081705547494 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:70.00190263197423 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:86.48049484536082 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:71.77480021219434 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:71.14778124575926 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:38.15917609811129 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:74.34468334012797 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:49.254356710038046 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:64.83396967214382 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:61.56595769665478 color: None
+color:None
+r:64 g:25 b:10
+hsv_r:83.0 hsv_g: 83.0 hsv_b:43
+ fps33:67.61189651003465 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:78.2329658851398 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:76.16590397326941 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:63.22245334780381 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:63.4664003510524 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:69.39042104392423 color: None
+color:None
+r:62 g:26 b:11
+hsv_r:85.0 hsv_g: 81.0 hsv_b:43
+ fps33:55.034692699312444 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:60.30024296620038 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:51.14505901863233 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:72.28318340054459 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:78.2154592074592 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:65.32268062109674 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:66.29424037428083 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:83.0 hsv_g: 81.0 hsv_b:44
+ fps33:64.60727048675292 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:62.415238095238095 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:47.81849896822592 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:58.950161630358394 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:61.48923943001231 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:75.68350204803407 color: None
+color:None
+r:62 g:26 b:11
+hsv_r:85.0 hsv_g: 81.0 hsv_b:43
+ fps33:69.0704652120214 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:70.08026733500418 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:68.10151163357094 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:46.486644647884205 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:43.605273007027904 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:67.84923485069073 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:48.24810196475406 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:63.31980676328502 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:78.25194029850746 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:72.93553828229606 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:73.64241945395487 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:65.04107804673811 color: None
+color:None
+r:60 g:26 b:12
+hsv_r:87.0 hsv_g: 79.0 hsv_b:39
+ fps33:53.0548471969237 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:67.66971056113066 color: None
+color:None
+r:63 g:25 b:11
+hsv_r:81.0 hsv_g: 82.0 hsv_b:40
+ fps33:39.49959505019494 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:52.709477970191266 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:79.3714328968284 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:76.88634697169672 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:70.97321353029764 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:74.58131512500445 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:77.10684609162439 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:61.57318809730031 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:73.45669801572707 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:51.551775420656085 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:53.31177629488402 color: None
+color:None
+r:61 g:25 b:12
+hsv_r:77.0 hsv_g: 79.0 hsv_b:39
+ fps33:68.33562514255922 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:72.97995545657015 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:75.14923046602046 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:90.32051337266894 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:77.01481794311526 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:65.20792263922142 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:93.0 hsv_g: 82.0 hsv_b:39
+ fps33:66.4686380780324 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:67.78782687396968 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:43.86200261437909 color: None
+color:None
+r:62 g:26 b:11
+hsv_r:87.0 hsv_g: 81.0 hsv_b:38
+ fps33:48.31869131962445 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:68.57023280146481 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:75.03227191413238 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:75.42355691422406 color: None
+color:None
+r:62 g:26 b:11
+hsv_r:85.0 hsv_g: 81.0 hsv_b:43
+ fps33:67.937153778872 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:71.44226609208128 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:83.0 hsv_g: 81.0 hsv_b:44
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 12.802916069967104, y: 0.08886998282442742 counts: 2119, prev_distance: 0, head_d: 179 right_d: 36, left_d: 56, back_d:137 imu: 0.03999999910593033, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:13.234624620171084
+Resetting setPoints...False
+average ::: r_pass:35.14547590430383 l_pass:55.99042430754579 h:192.21717739768783 l:55.990956290459906 r:35.192949465175836
+power :100 prev_power68.618940391
+7
+2 lane: 0, error: -0.08479495882540122 target:0, x:15.397260351254463 y:0.08479495882540122 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 15.397260351254463, y: 0.08479495882540122 counts: 2561, prev_distance: 0, head_d: 178 right_d: 36, left_d: 56, back_d:140 imu: 359.9100036621094, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.228933296791086
+Resetting setPoints...False
+average ::: r_pass:35.273654518658255 l_pass:55.99186066141392 h:190.89545965791905 l:55.99231284689092 r:35.31400704539946
+power :100 prev_power71.75704635189999
+7
+2 lane: 0, error: -0.0749894502478835 target:0, x:18.072663222909004 y:0.0749894502478835 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 18.072663222909004, y: 0.0749894502478835 counts: 2973, prev_distance: 0, head_d: 181 right_d: 36, left_d: 56, back_d:140 imu: 359.7900085449219, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.490891601571224
+Resetting setPoints...False
+average ::: r_pass:35.38260634085951 l_pass:55.99308156220183 h:189.90591369212714 l:55.99346591985728 r:35.41690598858954
+power :100 prev_power74.58134171670999
+7
+2 lane: 0, error: -0.06045917668954698 target:0, x:20.847828620128215 y:0.06045917668954698 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 20.847828620128215, y: 0.06045917668954698 counts: 3446, prev_distance: 0, head_d: 179 right_d: 35, left_d: 56, back_d:142 imu: 359.70001220703125, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.716485968614325
+Resetting setPoints...False
+average ::: r_pass:35.375215389730585 l_pass:55.99411932787155 h:188.81532232291443 l:55.99444603187868 r:35.35437009030111
+power :100 prev_power77.123207545039
+7
+2 lane: 0, error: -0.04025335508578202 target:0, x:24.252849738415794 y:0.04025335508578202 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 24.252849738415794, y: 0.04025335508578202 counts: 3999, prev_distance: 0, head_d: 174 right_d: 35, left_d: 56, back_d:144 imu: 359.6600036621094, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:10.863005006358309
+Resetting setPoints...False
+average ::: r_pass:35.318933081271 l_pass:55.99500142869081 h:187.33379009062298 l:55.99527912709688 r:35.30121457675594
+power :100 prev_power79.4108867905351
+7
+2 lane: 0, error: -0.017669328395791932 target:0, x:27.57054417161478 y:0.017669328395791932 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 27.57054417161478, y: 0.017669328395791932 counts: 4493, prev_distance: 0, head_d: 171 right_d: 35, left_d: 56, back_d:146 imu: 359.6099853515625, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.526929153612505
+Resetting setPoints...False
+average ::: r_pass:35.27109311908035 l_pass:55.99575121438719 h:185.50041108156069 l:55.99598725803234 r:35.25603239024255
+power :100 prev_power81.4697981114816
+7
+2 lane: 0, error: 0.00870529724343734 target:0, x:30.476592581519583 y:-0.00870529724343734 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 30.476592581519583, y: -0.00870529724343734 counts: 5006, prev_distance: 0, head_d: 166 right_d: 35, left_d: 56, back_d:151 imu: 359.4800109863281, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.290568536784054
+Resetting setPoints...False
+average ::: r_pass:35.2304291512183 l_pass:55.99638853222911 h:183.15036997340462 l:55.99658916932749 r:35.21762753170617
+power :100 prev_power83.32281830033344
+7
+2 lane: 0, error: 0.04668218855838378 target:0, x:34.043618211119856 y:-0.04668218855838378 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 34.043618211119856, y: -0.04668218855838378 counts: 5549, prev_distance: 0, head_d: 158 right_d: 35, left_d: 56, back_d:154 imu: 359.3900146484375, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.770147908636428
+Resetting setPoints...False
+average ::: r_pass:35.19586477853555 l_pass:55.99693025239475 h:180.63533297606418 l:55.99710079392837 r:35.18498340195025
+power :100 prev_power84.9905364703001
+7
+2 lane: 0, error: 0.08398494600260592 target:0, x:37.011916042108545 y:-0.08398494600260592 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 37.011916042108545, y: -0.08398494600260592 counts: 6152, prev_distance: 0, head_d: 157 right_d: 34, left_d: 56, back_d:159 imu: 359.2799987792969, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:11.072374395472112
+Resetting setPoints...False
+average ::: r_pass:35.06648506175522 l_pass:55.997390714535534 h:178.27179967845774 l:55.99753567483911 r:35.00723589165771
+power :100 prev_power86.49148282327009
+7
+2 lane: 0, error: 0.1420851876069066 target:0, x:40.927951935265234 y:-0.1420851876069066 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+ fps33:61.202124554952434 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:60.6946530641777 color: None
+color:None
+r:61 g:25 b:12
+hsv_r:77.0 hsv_g: 79.0 hsv_b:39
+ fps33:60.23529411764706 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:68.81097220855071 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:69.00909853732375 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:75.28681947909749 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:75.01482660561945 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:71.35839940113648 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:74.48595276149885 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:76.02922036724854 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:57.077008913383686 color: None
+color:None
+r:61 g:26 b:12
+hsv_r:84.0 hsv_g: 80.0 hsv_b:40
+ fps33:59.184737822430435 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:42.713158243123516 color: None
+color:None
+r:64 g:25 b:10
+hsv_r:83.0 hsv_g: 83.0 hsv_b:43
+ fps33:49.792888941651334 color: None
+color:None
+r:63 g:25 b:11
+hsv_r:81.0 hsv_g: 82.0 hsv_b:40
+ fps33:66.00525611771185 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:83.0 hsv_g: 81.0 hsv_b:44
+ fps33:61.789982321744255 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:59.46330951570829 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:84.0 hsv_g: 82.0 hsv_b:39
+ fps33:54.969057573096734 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:76.28781375045472 color: None
+color:None
+r:62 g:26 b:11
+hsv_r:85.0 hsv_g: 81.0 hsv_b:43
+ fps33:36.58227362324908 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:59.65614154861467 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:38.91469818708133 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:90.0 hsv_g: 80.0 hsv_b:41
+ fps33:57.474327527851244 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:90.0 hsv_g: 80.0 hsv_b:41
+ fps33:74.61979398316996 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:72.8228349190916 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:71.95951069706796 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:52.426178691065445 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:57.01338915546373 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:74.97191884886942 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:70.25281811634257 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:59.05224773677615 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:90.0 hsv_g: 80.0 hsv_b:41
+ fps33:47.10425300135889 color: None
+color:None
+r:61 g:25 b:12
+hsv_r:77.0 hsv_g: 79.0 hsv_b:39
+ fps33:66.31834927662265 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:70.85451719710791 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:74.02714484900898 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:75.01080191716146 color: None
+color:None
+r:62 g:26 b:11
+hsv_r:89.0 hsv_g: 82.0 hsv_b:45
+ fps33:64.89114425397611 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:57.042853839981504 color: None
+color:None
+r:59 g:28 b:12
+hsv_r:106.0 hsv_g: 79.0 hsv_b:39
+ fps33:47.40344254698749 color: None
+color:None
+r:60 g:26 b:12
+hsv_r:87.0 hsv_g: 79.0 hsv_b:39
+ fps33:50.73734380103306 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:50.58802812654533 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:72.37548315847599 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:70.36242241234692 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:71.7171192120922 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:74.7687755138421 color: None
+color:None
+r:64 g:23 b:11
+hsv_r:71.0 hsv_g: 82.0 hsv_b:46
+ fps33:63.689018464528665 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:78.02920767212993 color: None
+color:None
+r:63 g:25 b:11
+hsv_r:81.0 hsv_g: 82.0 hsv_b:40
+ fps33:45.028868347880234 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:59.69519797329993 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:56.90818555554048 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:67.67407789860918 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:70.6504286893392 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:76.15207523875232 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:71.32563557520619 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:72.89497558177932 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:62.33546354367922 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:61.18783917838595 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:61.44240009375366 color: None
+color:None
+r:62 g:26 b:11
+hsv_r:85.0 hsv_g: 81.0 hsv_b:43
+ fps33:41.67299896669581 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:74.09776521508701 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:73.84728066623236 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:90.0 hsv_g: 80.0 hsv_b:41
+ fps33:60.523867243867244 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:64.0068366677349 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:88.78149143788498 color: None
+color:None
+r:61 g:27 b:11
+hsv_r:94.0 hsv_g: 81.0 hsv_b:43
+ fps33:60.754436027057956 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:55.10772424485291 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.80708494247529 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:73.44254946594292 color: None
+color:None
+r:61 g:27 b:11
+hsv_r:94.0 hsv_g: 81.0 hsv_b:43
+ fps33:53.66373674176998 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:71.1900470152927 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:68.83242799704604 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:64.49005196961777 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:71.54829244993347 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:71.52633015006822 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:62.52130101660555 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:66.09158236424948 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:64.17135600740502 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:57.25152536820409 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:62.05050669428212 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:73.28087217834928 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:74.82346225203368 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:61.7163373111049 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:82.47736657883353 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:68.78050540332235 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:63.235797853093715 color: None
+color:None
+r:62 g:26 b:11
+hsv_r:85.0 hsv_g: 81.0 hsv_b:43
+ fps33:57.02889308877317 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+color_s:White color_n: centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 40.927951935265234, y: -0.1420851876069066 counts: 6658, prev_distance: 0, head_d: 153 right_d: 34, left_d: 56, back_d:161 imu: 359.1499938964844, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:13.357230661443904
+Resetting setPoints...False
+average ::: r_pass:34.90651230249194 l_pass:55.99778210735521 h:175.74461971061197 l:55.997905323613246 r:34.85615050790905
+power :100 prev_power87.84233454094309
+7
+2 lane: 0, error: 0.19178805555588346 target:0, x:44.23911380524154 y:-0.19178805555588346 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 44.23911380524154, y: -0.19178805555588346 counts: 7224, prev_distance: 0, head_d: 152 right_d: 34, left_d: 56, back_d:162 imu: 359.1400146484375, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.409513862795164
+Resetting setPoints...False
+average ::: r_pass:34.77053545711814 l_pass:55.99811479125192 h:173.37015773955076 l:55.998219525071256 r:34.72772793172269
+power :100 prev_power89.05810108684878
+7
+2 lane: 0, error: 0.25134658285255823 target:0, x:47.83079346485904 y:-0.25134658285255823 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 47.83079346485904, y: -0.25134658285255823 counts: 7769, prev_distance: 0, head_d: 152 right_d: 33, left_d: 56, back_d:161 imu: 359.04998779296875, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:13.02947106169756
+Resetting setPoints...False
+average ::: r_pass:34.55495513855042 l_pass:55.99839757256413 h:171.23314196559568 l:55.99848659631056 r:34.46856874196428
+power :100 prev_power90.1522909781639
+7
+2 lane: 0, error: 0.3075601964463709 target:0, x:51.1855122959383 y:-0.3075601964463709 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 51.1855122959383, y: -0.3075601964463709 counts: 8342, prev_distance: 0, head_d: 152 right_d: 33, left_d: 56, back_d:161 imu: 359.0400085449219, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.943385280049375
+Resetting setPoints...False
+average ::: r_pass:34.32171186776785 l_pass:55.99863793667951 h:169.2098277690361 l:55.99871360686397 r:34.24828343066964
+power :100 prev_power91.13706188034752
+7
+2 lane: 0, error: 0.370469948048915 target:0, x:54.78960955144865 y:-0.370469948048915 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 54.78960955144865, y: -0.370469948048915 counts: 8957, prev_distance: 0, head_d: 149 right_d: 34, left_d: 55, back_d:164 imu: 359.0, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:11.816039237450243
+Resetting setPoints...False
+average ::: r_pass:34.22345508760267 l_pass:55.99884224617758 h:167.08884499213252 l:55.998906565834375 r:34.21104091606919
+power :100 prev_power92.02335569231276
+7
+2 lane: 0, error: 0.45726972371820973 target:0, x:59.31017515948285 y:-0.45726972371820973 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 59.31017515948285, y: -0.45726972371820973 counts: 9615, prev_distance: 0, head_d: 144 right_d: 33, left_d: 56, back_d:169 imu: 358.8999938964844, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:11.55621190914401
+Resetting setPoints...False
+average ::: r_pass:34.08993682446227 l_pass:55.99901590925094 h:164.7799604929193 l:55.99907058095921 r:34.02938477865881
+power :100 prev_power92.82102012308148
+7
+2 lane: 0, error: 0.5283570507833288 target:0, x:62.9141203943546 y:-0.5283570507833288 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 62.9141203943546, y: -0.5283570507833288 counts: 10231, prev_distance: 0, head_d: 140 right_d: 162, left_d: 56, back_d:173 imu: 358.8699951171875, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:11.986431223047488
+Resetting setPoints...False
+average ::: r_pass:46.826446300792924 l_pass:55.99916352286329 h:162.30196444362736 l:55.99920999381533 r:53.22497706185999
+power :100 prev_power93.53891811077334
+7
+2 lane: 0, error: 0.6168460477182532 target:0, x:67.03543900290349 y:-0.6168460477182532 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 67.03543900290349, y: -0.6168460477182532 counts: 10895, prev_distance: 0, head_d: 136 right_d: 162, left_d: 56, back_d:179 imu: 358.7699890136719, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:11.660140167300042
+Resetting setPoints...False
+average ::: r_pass:64.10247935567399 l_pass:55.9992889944338 h:159.67176799926463 l:55.999328494743025 r:69.54123050258099
+power :100 prev_power94.185026299696
+7
+2 lane: 0, error: 0.6958363125058695 target:0, x:70.62674385400601 y:-0.6958363125058695 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 70.62674385400601, y: -0.6958363125058695 counts: 11579, prev_distance: 0, head_d: 136 right_d: 34, left_d: 55, back_d:177 imu: 358.739990234375, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:11.155479193374221
+Resetting setPoints...False
+average ::: r_pass:65.98710745232289 l_pass:55.899395645268726 h:157.30459119933818 l:55.84942922053157 r:64.21004592719383
+power :100 prev_power94.76652366972641
+7
+2 lane: 0, error: 0.8001368925339488 target:0, x:75.1531776062616 y:-0.8001368925339488 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 75.1531776062616, y: -0.8001368925339488 counts: 12126, prev_distance: 0, head_d: 136 right_d: 33, left_d: 55, back_d:174 imu: 358.67999267578125, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:13.581711029078427
+Resetting setPoints...False
+average ::: r_pass:61.189041334474446 l_pass:55.76448629847841 h:155.17413207940436 l:55.72201483745183 r:59.67853903811476
+power :100 prev_power95.28987130275377
+7
+2 lane: 0, error: 0.8877466877330928 target:0, x:79.04371252437251 y:-0.8877466877330928 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 79.04371252437251, y: -0.8877466877330928 counts: 12749, prev_distance: 0, head_d: 135 right_d: 34, left_d: 55, back_d:176 imu: 358.7099914550781, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.79570456694835
+Resetting setPoints...False
+average ::: r_pass:57.11068513430328 l_pass:55.64981335370665 h:153.15671887146394 l:55.61371261183405 r:55.82675818239754
+power :100 prev_power95.7608841724784
+7
+2 lane: 0, error: 0.9665331206531729 target:0, x:82.59759428155614 y:-0.9665331206531729 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 82.59759428155614, y: -0.9665331206531729 counts: 13357, prev_distance: 0, head_d: 135 right_d: 34, left_d: 55, back_d:178 imu: 358.7300109863281, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.418662766253531
+Resetting setPoints...False
+average ::: r_pass:53.64408236415779 l_pass:55.55234135065065 h:151.34104698431756 l:55.521655720058945 r:52.55274445503791
+power :100 prev_power96.18479575523057
+7
+2 lane: 0, error: 1.051005975518433 target:0, x:86.53186363404379 y:-1.051005975518433 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 362.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 86.53186363404379, y: -1.051005975518433 counts: 13988, prev_distance: 0, head_d: 130 right_d: 34, left_d: 55, back_d:180 imu: 358.7699890136719, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.739351233142996
+Resetting setPoints...False
+average ::: r_pass:50.69747000953412 l_pass:55.469490148053055 h:149.20694228588582 l:55.4434073620501 r:49.769832786782224
+power :100 prev_power96.56631617970751
+7
+2 lane: 0, error: 1.134139703427401 target:0, x:90.37259393729353 y:-1.134139703427401 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 362.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 90.37259393729353, y: -1.134139703427401 counts: 14606, prev_distance: 0, head_d: 125 right_d: 34, left_d: 55, back_d:189 imu: 358.760009765625, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.718992500765692
+Resetting setPoints...False
+average ::: r_pass:48.192849508104004 l_pass:55.399066625845094 h:146.58624805729724 l:55.37689625774259 r:47.40435786876489
+power :100 prev_power96.90968456173677
+7
+2 lane: 0, error: 1.2204821946076705 target:0, x:94.11968303523514 y:-1.2204821946076705 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 379.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 94.11968303523514, y: -1.2204821946076705 counts: 15207, prev_distance: 0, head_d: 120 right_d: 34, left_d: 55, back_d:192 imu: 358.67999267578125, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:13.557170977991396
+Resetting setPoints...False
+average ::: r_pass:46.0639220818884 l_pass:55.33920663196833 h:143.92762325156752 l:55.3203618190812 r:45.39370418845016
+power :100 prev_power97.21871610556309
+7
+2 lane: 0, error: 1.3080563202218105 target:0, x:97.89169596647787 y:-1.3080563202218105 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 379.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 97.89169596647787, y: -1.3080563202218105 counts: 15852, prev_distance: 0, head_d: 117 right_d: 34, left_d: 55, back_d:198 imu: 358.6700134277344, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.330893204682695
+Resetting setPoints...False
+average ::: r_pass:44.25433376960514 l_pass:55.28832563717308 h:141.23486092641076 l:55.27230754621902 r:43.68464856018264
+power :100 prev_power97.49684449500678
+7
+2 lane: 0, error: 1.401709971911643 target:0, x:101.92556764666638 y:-1.401709971911643 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 397.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 101.92556764666638, y: -1.401709971911643 counts: 16421, prev_distance: 0, head_d: 117 right_d: 34, left_d: 55, back_d:194 imu: 358.6700134277344, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:13.341255653877717
+Resetting setPoints...False
+average ::: r_pass:42.71618370416437 l_pass:55.245076791597114 h:138.7113748337697 l:55.231461414286166 r:42.23195127615524
+power :100 prev_power97.7471600455061
+7
+2 lane: 0, error: 1.4952108190434639 target:0, x:105.69743831949239 y:-1.4952108190434639 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 397.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 105.69743831949239, y: -1.4952108190434639 counts: 17065, prev_distance: 0, head_d: 114 right_d: 34, left_d: 55, back_d:195 imu: 358.5799865722656, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.87042441091544
+Resetting setPoints...False
+average ::: r_pass:41.408756148539716 l_pass:55.20831527285755 h:136.24023735039273 l:55.19674220214324 r:40.997158584731956
+power :100 prev_power97.9724440409555
+7
+2 lane: 0, error: 1.5881555858285683 target:0, x:109.50051418489403 y:-1.5881555858285683 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+ fps33:43.21396264128005 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:65.64677893946033 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:70.50316854650283 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:77.41139123694215 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:71.20334091603571 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:71.89906747120132 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:71.34019356045788 color: None
+color:None
+r:60 g:26 b:12
+hsv_r:87.0 hsv_g: 79.0 hsv_b:39
+ fps33:43.17792876261066 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:54.79169170476813 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:46.06543585463092 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:69.27466719519043 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:65.77030671768173 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:73.051135571966 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:64.30515906477578 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:74.58396756526069 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:70.4546126453 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:66.91401040171021 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:60.79318191700607 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:64.48707738195907 color: None
+color:None
+r:63 g:25 b:11
+hsv_r:77.0 hsv_g: 81.0 hsv_b:43
+ fps33:32.384946801118026 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:70.36006173253708 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:73.52365593282732 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:73.16965266995796 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:69.6069170386843 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:74.73147438752784 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:52.666457388967714 color: None
+color:None
+r:62 g:26 b:11
+hsv_r:85.0 hsv_g: 81.0 hsv_b:43
+ fps33:58.7404627191754 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:56.586492539327054 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:50.45050940014674 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:79.83827924240983 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:70.30934540273238 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:64.5645059495405 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:74.73014289277697 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:75.95212139869257 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:90.0 hsv_g: 80.0 hsv_b:41
+ fps33:75.81757379656912 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:63.60016983077576 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:70.67066554338669 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:46.08416287604105 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:47.098434657623464 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:62.195886531132764 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:76.79625018309653 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:60.59381681594915 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:62.48404493042934 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:69.50656237571258 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:63.44240077444337 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:81.52511273518893 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:67.355655120361 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:62.416166907245646 color: None
+color:None
+r:62 g:26 b:10
+hsv_r:90.0 hsv_g: 82.0 hsv_b:40
+ fps33:58.05024012843757 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:66.42442670720892 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:71.8387257000942 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:73.69806016305876 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:73.66699452016299 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:70.42858582127145 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:49.74033489872397 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:40.87019732034105 color: None
+color:None
+r:63 g:24 b:11
+hsv_r:75.0 hsv_g: 81.0 hsv_b:44
+ fps33:42.913309937691196 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:66.04059139361685 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:74.876892316481 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:73.6437124697124 color: None
+color:None
+r:62 g:26 b:11
+hsv_r:89.0 hsv_g: 82.0 hsv_b:45
+ fps33:66.56568798603396 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:73.93840675516068 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:83.0 hsv_g: 81.0 hsv_b:44
+ fps33:60.30024296620038 color: None
+color:None
+r:60 g:26 b:12
+hsv_r:90.0 hsv_g: 78.0 hsv_b:38
+ fps33:60.02238154524249 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:47.652798291258605 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:47.439364806478615 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:57.86603755363326 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:76.7400468384075 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:74.40799020738349 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:73.33340326951657 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:70.70640593391774 color: None
+color:None
+r:60 g:26 b:12
+hsv_r:90.0 hsv_g: 78.0 hsv_b:38
+ fps33:50.668084078279776 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:63.76744963892056 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:46.81769879894629 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:50.40261488175351 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:62.78146329780864 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:75.31656161899119 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:73.52881159826798 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:71.51291538081192 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:76.64749095427798 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:83.0 hsv_g: 81.0 hsv_b:44
+ fps33:65.19069304776264 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:49.37670257225263 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:55.561054444297255 color: None
+color:None
+r:63 g:25 b:11
+hsv_r:77.0 hsv_g: 81.0 hsv_b:38
+ fps33:36.07227692969254 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:69.91671945324221 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:74.00102330669208 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+color_s:White color_n: centr_y_b.value: 419.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 109.50051418489403, y: -1.5881555858285683 counts: 17676, prev_distance: 0, head_d: 113 right_d: 34, left_d: 55, back_d:196 imu: 358.6000061035156, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.910039490653674
+Resetting setPoints...False
+average ::: r_pass:40.29744272625876 l_pass:55.17706798192892 h:133.91621361535346 l:55.16723087182175 r:39.94758479702217
+power :100 prev_power98.17519963685994
+7
+2 lane: 0, error: 1.6769720528536238 target:0, x:113.29745058601563 y:-1.6769720528536238 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 445.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 113.29745058601563, y: -1.6769720528536238 counts: 18284, prev_distance: 0, head_d: 110 right_d: 34, left_d: 55, back_d:201 imu: 358.6600036621094, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:13.07015428145849
+Resetting setPoints...False
+average ::: r_pass:39.35282631731995 l_pass:55.15050778463958 h:131.52459225381813 l:55.142146241048486 r:39.05544707746884
+power :100 prev_power98.35767967317395
+7
+2 lane: 0, error: 1.7833002889308025 target:0, x:117.5867845081715 y:-1.7833002889308025 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 445.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 117.5867845081715, y: -1.7833002889308025 counts: 18936, prev_distance: 0, head_d: 106 right_d: 34, left_d: 55, back_d:207 imu: 358.5799865722656, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.244498549099974
+Resetting setPoints...False
+average ::: r_pass:38.549902369721956 l_pass:55.12793161694364 h:128.97213302843633 l:55.120824304891215 r:38.297130015848516
+power :100 prev_power98.52191170585655
+7
+2 lane: 0, error: 1.8795275354413394 target:0, x:121.41473231557858 y:-1.8795275354413394 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 471.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 121.41473231557858, y: -1.8795275354413394 counts: 19588, prev_distance: 0, head_d: 103 right_d: 34, left_d: 54, back_d:207 imu: 358.55999755859375, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.479816238057408
+Resetting setPoints...False
+average ::: r_pass:37.867417014263665 l_pass:55.00874187440209 h:126.3749197255927 l:54.952700659157536 r:37.65256051347124
+power :100 prev_power98.6697205352709
+7
+2 lane: 0, error: 1.9777589959002344 target:0, x:125.24262921588556 y:-1.9777589959002344 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 471.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 125.24262921588556, y: -1.9777589959002344 counts: 20201, prev_distance: 0, head_d: 100 right_d: 34, left_d: 54, back_d:218 imu: 358.5299987792969, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:13.403672480682086
+Resetting setPoints...False
+average ::: r_pass:37.28730446212411 l_pass:54.85743059324178 h:123.73742775303343 l:54.8097955602839 r:37.10467643645055
+power :100 prev_power98.8027484817438
+7
+2 lane: 0, error: 2.0846879032268992 target:0, x:129.32607944100525 y:-2.0846879032268992 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 505.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 129.32607944100525, y: -2.0846879032268992 counts: 20857, prev_distance: 0, head_d: 99 right_d: 34, left_d: 54, back_d:216 imu: 358.5, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.167595464026387
+Resetting setPoints...False
+average ::: r_pass:36.7942087928055 l_pass:54.72881600425551 h:121.2636849777301 l:54.688326226241315 r:36.63897497098297
+power :50 prev_power93.92247363356942
+7
+2 lane: 0, error: 2.188600500037654 target:0, x:133.16630373800155 y:-2.188600500037654 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 505.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 133.16630373800155, y: -2.188600500037654 counts: 21473, prev_distance: 0, head_d: 97 right_d: 34, left_d: 56, back_d:216 imu: 358.45001220703125, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:13.613980421178365
+Resetting setPoints...False
+average ::: r_pass:36.37507747388467 l_pass:54.81949360361719 h:118.8373164799571 l:54.88507729230511 r:36.243128725335524
+power :50 prev_power89.53022627021248
+7
+2 lane: 0, error: 2.2838461832921295 target:0, x:136.66363427925316 y:-2.2838461832921295 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 540.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 136.66363427925316, y: -2.2838461832921295 counts: 22173, prev_distance: 0, head_d: 97 right_d: 34, left_d: 63, back_d:218 imu: 358.44000244140625, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:10.689365693038145
+Resetting setPoints...False
+average ::: r_pass:36.01881585280197 l_pass:55.696569563074604 h:116.6535848319614 l:56.10231569845935 r:35.90665941653519
+power :50 prev_power85.57720364319124
+7
+2 lane: 0, error: 2.4041697112146996 target:0, x:141.28948753419002 y:-2.4041697112146996 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 540.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 141.28948753419002, y: -2.4041697112146996 counts: 22729, prev_distance: 0, head_d: 93 right_d: 34, left_d: 80, back_d:220 imu: 358.510009765625, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:13.566862251664197
+Resetting setPoints...False
+average ::: r_pass:35.71599347488167 l_pass:58.49208412861341 h:114.28822634876525 l:59.686968343690445 r:35.62066050405491
+power :50 prev_power82.01948327887212
+7
+2 lane: 0, error: 2.494322042423481 target:0, x:144.59979505184526 y:-2.494322042423481 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 583.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 144.59979505184526, y: -2.494322042423481 counts: 23321, prev_distance: 0, head_d: 91 right_d: 34, left_d: 126, back_d:224 imu: 358.44000244140625, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.22451370713424
+Resetting setPoints...False
+average ::: r_pass:35.45859445364942 l_pass:66.3182715093214 h:111.95940371388872 l:69.63392309213688 r:35.377561428446676
+power :50 prev_power78.8175349509849
+7
+2 lane: 0, error: 2.585493044041402 target:0, x:147.94750717421982 y:-2.585493044041402 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 583.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 147.94750717421982, y: -2.585493044041402 counts: 23820, prev_distance: 0, head_d: 89 right_d: 34, left_d: 160, back_d:233 imu: 358.44000244140625, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.581603513234624
+Resetting setPoints...False
+average ::: r_pass:35.23980528560201 l_pass:78.6705307829232 h:109.66346334249985 l:83.18883462831636 r:35.17092721417967
+power :50 prev_power75.93578145588641
+7
+2 lane: 0, error: 2.6818746952995904 target:0, x:151.31379027885006 y:-2.6818746952995904 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 627.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 151.31379027885006, y: -2.6818746952995904 counts: 24326, prev_distance: 0, head_d: 87 right_d: 34, left_d: 160, back_d:242 imu: 358.3599853515625, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:13.329765427115875
+Resetting setPoints...False
+average ::: r_pass:35.0538344927617 l_pass:90.86995116548472 h:107.39711700824988 l:94.7105094340689 r:34.99528813205272
+power :50 prev_power73.34220331029778
+7
+2 lane: 0, error: 2.7674782021306834 target:0, x:154.24989279137608 y:-2.7674782021306834 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 627.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 154.24989279137608, y: -2.7674782021306834 counts: 24824, prev_distance: 0, head_d: 85 right_d: 35, left_d: 206, back_d:242 imu: 358.3299865722656, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.421347532642914
+Resetting setPoints...False
+average ::: r_pass:34.89575931884745 l_pass:106.939458490662 h:105.1574053074249 l:113.05393301895856 r:34.84599491224481
+power :50 prev_power71.00798297926801
+7
+2 lane: 0, error: 2.8662988720170612 target:0, x:157.65977863075656 y:-2.8662988720170612 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 674.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 157.65977863075656, y: -2.8662988720170612 counts: 25341, prev_distance: 0, head_d: 83 right_d: 35, left_d: 235, back_d:237 imu: 358.3399963378906, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:11.987013580867895
+Resetting setPoints...False
+average ::: r_pass:34.86139542102033 l_pass:125.24853971706271 h:102.9416647766824 l:131.34584306611475 r:34.86909567540809
+power :50 prev_power68.9071846813412
+7
+2 lane: 0, error: 2.94464611936808 target:0, x:160.2841389506623 y:-2.94464611936808 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 717.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 160.2841389506623, y: -2.94464611936808 counts: 25849, prev_distance: 0, head_d: 82 right_d: 34, left_d: 252, back_d:237 imu: 358.2900085449219, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:11.506343941775645
+Resetting setPoints...False
+average ::: r_pass:34.78218610786728 l_pass:143.61125875950327 h:100.84749829901416 l:149.74396660619755 r:34.738731324096875
+power :50 prev_power67.01646621320708
+7
+2 lane: 0, error: 3.0377112634353125 target:0, x:163.43839090249548 y:-3.0377112634353125 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 717.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 163.43839090249548, y: -3.0377112634353125 counts: 26288, prev_distance: 0, head_d: 80 right_d: 35, left_d: 263, back_d:234 imu: 358.30999755859375, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.95822095347551
+Resetting setPoints...False
+average ::: r_pass:34.76485819168719 l_pass:161.0695699455778 h:98.76274846911275 l:166.7323716152679 r:34.77792162548234
+power :50 prev_power65.31481959188638
+7
+2 lane: 0, error: 3.1109558775604307 target:0, x:165.95059751087763 y:-3.1109558775604307 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 751.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 165.95059751087763, y: -3.1109558775604307 counts: 26761, prev_distance: 0, head_d: 79 right_d: 35, left_d: 267, back_d:239 imu: 358.3299865722656, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:11.342547696634531
+Resetting setPoints...False
+average ::: r_pass:34.80012946293411 l_pass:176.75913445374113 h:96.78647362220148 l:181.7725158729777 r:34.81123338165999
+power :50 prev_power63.78333763269774
+7
+2 lane: 0, error: 3.201104898169759 target:0, x:169.06126119250627 y:-3.201104898169759 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 751.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 169.06126119250627, y: -3.201104898169759 counts: 27161, prev_distance: 0, head_d: 77 right_d: 35, left_d: 276, back_d:244 imu: 358.3399963378906, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:13.100731513815054
+Resetting setPoints...False
+average ::: r_pass:34.83011004349399 l_pass:191.1952642856799 h:94.80782625998134 l:195.90663849203105 r:34.83954837441099
+power :50 prev_power62.405003869427965
+7
+2 lane: 0, error: 3.2738692062796133 target:0, x:171.49861246348766 y:-3.2738692062796133 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+ fps33:73.83688055628906 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:70.42976844155626 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:70.25046478519387 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:51.056030967364975 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:77.36427188047588 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:80.0 hsv_g: 81.0 hsv_b:37
+ fps33:55.425958717657316 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:75.43983596532249 color: None
+color:None
+r:63 g:25 b:11
+hsv_r:77.0 hsv_g: 81.0 hsv_b:43
+ fps33:60.112706738899874 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:72.73065251695019 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:72.9634513351309 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:67.57812651048883 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:74.05589985345269 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:69.25407833036127 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:51.74447926176318 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:53.94533832362285 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:70.17289320908132 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:44.30119247546923 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:70.77441236521945 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:66.50025367833587 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:73.66570068672392 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:55.55295956344949 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:75.28817088493987 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:73.39243031374127 color: None
+color:None
+r:61 g:25 b:12
+hsv_r:80.0 hsv_g: 78.0 hsv_b:38
+ fps33:59.36483942649286 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:63.67354870051008 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:52.518738339406234 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:67.16366955435636 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:72.21722137089137 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:70.10720911962827 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:70.33410470536943 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:69.71335494058007 color: None
+color:None
+r:64 g:23 b:11
+hsv_r:71.0 hsv_g: 82.0 hsv_b:46
+ fps33:51.97724766094554 color: None
+color:None
+r:62 g:26 b:11
+hsv_r:85.0 hsv_g: 81.0 hsv_b:43
+ fps33:67.59882024916595 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:77.02896181888303 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:29.262858259146597 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:63.661951308360145 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:94.27097006203363 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:74.1790142015811 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:71.58126119976107 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:76.15760612993427 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:67.08739603326936 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:63.47408405090876 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:61.49374697611682 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:43.061343079781935 color: None
+color:None
+r:63 g:26 b:10
+hsv_r:88.0 hsv_g: 82.0 hsv_b:41
+ fps33:60.39227656909188 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:71.72570412298853 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:55.11424141284066 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:70.66352180066042 color: None
+color:None
+r:62 g:27 b:10
+hsv_r:94.0 hsv_g: 82.0 hsv_b:46
+ fps33:63.87038024029603 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:72.71930372065606 color: None
+color:None
+r:62 g:26 b:11
+hsv_r:89.0 hsv_g: 82.0 hsv_b:45
+ fps33:53.759343758010765 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:90.0 hsv_g: 81.0 hsv_b:37
+ fps33:49.258405853268975 color: None
+color:None
+r:64 g:24 b:11
+hsv_r:72.0 hsv_g: 82.0 hsv_b:45
+ fps33:41.45675229557293 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:56.50644644132189 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:90.0 hsv_g: 80.0 hsv_b:41
+ fps33:72.10424617500429 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:71.3317006802721 color: None
+color:None
+r:62 g:27 b:10
+hsv_r:97.0 hsv_g: 84.0 hsv_b:44
+ fps33:68.99207158601178 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:84.0 hsv_g: 82.0 hsv_b:39
+ fps33:67.19379695935663 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:54.58206236010619 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:81.34486637446182 color: None
+color:None
+r:63 g:26 b:10
+hsv_r:86.0 hsv_g: 82.0 hsv_b:46
+ fps33:50.969789767894035 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:44.5401777655067 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:65.163347108722 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:71.74656175162504 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:75.75868795607254 color: None
+color:None
+r:63 g:25 b:11
+hsv_r:81.0 hsv_g: 82.0 hsv_b:40
+ fps33:69.4271762700081 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:68.57359601079048 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:69.31702721909137 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:57.249181043896044 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:75.2611519827741 color: None
+color:None
+r:60 g:26 b:12
+hsv_r:90.0 hsv_g: 78.0 hsv_b:38
+ fps33:47.613849472130774 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:51.77449975929195 color: None
+color:None
+r:62 g:26 b:11
+hsv_r:85.0 hsv_g: 81.0 hsv_b:43
+ fps33:68.0760890735571 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:70.4782900927544 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:67.77249224405378 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:71.27594059069436 color: None
+color:None
+r:59 g:27 b:12
+hsv_r:93.0 hsv_g: 78.0 hsv_b:37
+ fps33:65.82294690918222 color: None
+color:None
+r:63 g:25 b:11
+hsv_r:77.0 hsv_g: 81.0 hsv_b:43
+ fps33:52.4419104776194 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:68.76020918375711 color: None
+color:None
+r:63 g:24 b:11
+hsv_r:75.0 hsv_g: 81.0 hsv_b:44
+ fps33:46.58836597096491 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:46.04015323651771 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:66.09574836899996 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:68.40026092628833 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:71.61915169728843 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:61.06134808560198 color: None
+color:None
+r:61 g:27 b:11
+hsv_r:94.0 hsv_g: 81.0 hsv_b:43
+ fps33:53.67403767403768 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:90.0 hsv_g: 80.0 hsv_b:41
+color_s:White color_n: centr_y_b.value: 760.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 171.49861246348766, y: -3.2738692062796133 counts: 27632, prev_distance: 0, head_d: 76 right_d: 35, left_d: 281, back_d:241 imu: 358.2900085449219, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:11.482875493475987
+Resetting setPoints...False
+average ::: r_pass:34.85559353696989 l_pass:204.41597464282793 h:92.9270436339832 l:208.6706427182264 r:34.86361611824934
+power :50 prev_power61.164503482485166
+7
+2 lane: 0, error: 3.356231306505431 target:0, x:174.17900461863252 y:-3.356231306505431 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 760.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 174.17900461863252, y: -3.356231306505431 counts: 28037, prev_distance: 0, head_d: 74 right_d: 35, left_d: 284, back_d:250 imu: 358.239990234375, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.534303969207414
+Resetting setPoints...False
+average ::: r_pass:34.87725450642441 l_pass:216.20357844640375 h:91.0343392705849 l:219.97004631049242 r:34.884073700511934
+power :50 prev_power60.04805313423665
+7
+2 lane: 0, error: 3.4364864692836115 target:0, x:176.79082860236667 y:-3.4364864692836115 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 767.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 176.79082860236667, y: -3.4364864692836115 counts: 28421, prev_distance: 0, head_d: 73 right_d: 35, left_d: 273, back_d:256 imu: 358.239990234375, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.82297083704023
+Resetting setPoints...False
+average ::: r_pass:34.89566633046074 l_pass:225.2730416794432 h:89.2309053435264 l:227.92453936391854 r:34.901462645435146
+power :50 prev_power59.04324782081299
+7
+2 lane: 0, error: 3.5071646436634416 target:0, x:179.09097907968868 y:-3.5071646436634416 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 767.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 179.09097907968868, y: -3.5071646436634416 counts: 28822, prev_distance: 0, head_d: 71 right_d: 35, left_d: 271, back_d:261 imu: 358.239990234375, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.386865086279455
+Resetting setPoints...False
+average ::: r_pass:34.911316380891634 l_pass:232.2320854275267 h:87.40781480917376 l:234.38585845933076 r:34.91624324861988
+power :50 prev_power58.13892303873169
+7
+2 lane: 0, error: 3.5800012778277956 target:0, x:181.43473857972668 y:-3.5800012778277956 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 775.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 181.43473857972668, y: -3.5800012778277956 counts: 29163, prev_distance: 0, head_d: 70 right_d: 35, left_d: 266, back_d:258 imu: 358.2200012207031, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:13.649734282301868
+Resetting setPoints...False
+average ::: r_pass:34.92461892375789 l_pass:237.5472726133977 h:85.66703332825638 l:239.12797969043115 r:34.928806761326896
+power :50 prev_power57.32503073485852
+7
+2 lane: 0, error: 3.6528911734715668 target:0, x:183.71610132586665 y:-3.6528911734715668 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 784.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 183.71610132586665, y: -3.6528911734715668 counts: 29549, prev_distance: 0, head_d: 68 right_d: 35, left_d: 274, back_d:265 imu: 358.1700134277344, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.46364735842721
+Resetting setPoints...False
+average ::: r_pass:34.93592608519421 l_pass:242.61518172138804 h:83.90032999543074 l:244.35878273686646 r:34.93948574712786
+power :50 prev_power56.59252766137267
+7
+2 lane: 0, error: 3.7259215220884863 target:0, x:186.06609422883028 y:-3.7259215220884863 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 784.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 186.06609422883028, y: -3.7259215220884863 counts: 29904, prev_distance: 0, head_d: 68 right_d: 35, left_d: 277, back_d:259 imu: 358.2200012207031, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.976100831288884
+Resetting setPoints...False
+average ::: r_pass:34.94553717241507 l_pass:247.6229044631798 h:82.31029699588767 l:249.2549653263365 r:34.94856288505868
+power :50 prev_power55.93327489523541
+7
+2 lane: 0, error: 3.7964333992937194 target:0, x:188.2851369742652 y:-3.7964333992937194 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 793.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 188.2851369742652, y: -3.7964333992937194 counts: 30290, prev_distance: 0, head_d: 67 right_d: 35, left_d: 273, back_d:251 imu: 358.17999267578125, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:11.966459822256459
+Resetting setPoints...False
+average ::: r_pass:34.953706596552806 l_pass:251.62946879370287 h:80.77926729629891 l:252.81672052738602 r:34.95627845229988
+power :50 prev_power55.33994740571187
+7
+2 lane: 0, error: 3.8703225806288826 target:0, x:190.58518654145718 y:-3.8703225806288826 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 793.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 190.58518654145718, y: -3.8703225806288826 counts: 30627, prev_distance: 0, head_d: 65 right_d: 35, left_d: 273, back_d:254 imu: 358.1600036621094, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:13.29195821924754
+Resetting setPoints...False
+average ::: r_pass:34.960650607069894 l_pass:254.83504847464744 h:79.20134056666902 l:255.8442124482781 r:34.9628366844549
+power :50 prev_power54.80595266514068
+7
+2 lane: 0, error: 3.9367666378585997 target:0, x:192.7232437449493 y:-3.9367666378585997 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+ fps33:66.79891702500399 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:65.90465415920305 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:50.69319184423307 color: None
+color:None
+r:62 g:27 b:10
+hsv_r:94.0 hsv_g: 82.0 hsv_b:46
+ fps33:55.87786096826623 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:75.06987399770905 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:66.59105197980503 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:73.05240790734129 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:72.45049402335383 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:71.1079766042214 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:69.97737662250992 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:63.272047065922465 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:57.177381536615954 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:82.98979026513652 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:80.0 hsv_g: 81.0 hsv_b:37
+ fps33:57.41453465292322 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:90.0 hsv_g: 80.0 hsv_b:41
+ fps33:63.55487536934616 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:56.626982948331964 color: None
+color:None
+r:62 g:26 b:11
+hsv_r:85.0 hsv_g: 81.0 hsv_b:43
+ fps33:56.66906260977653 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:62.801203827092095 color: None
+color:None
+r:63 g:25 b:11
+hsv_r:78.0 hsv_g: 82.0 hsv_b:46
+ fps33:56.166693449033154 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:90.0 hsv_g: 80.0 hsv_b:41
+ fps33:80.14338396866341 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:39.96173707578269 color: None
+color:None
+r:63 g:25 b:11
+hsv_r:81.0 hsv_g: 82.0 hsv_b:40
+ fps33:67.46182426455213 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:58.35959371086684 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:75.11289398280802 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:77.78176693123656 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:70.6504286893392 color: None
+color:None
+r:63 g:23 b:12
+hsv_r:66.0 hsv_g: 80.0 hsv_b:45
+ fps33:60.91148578980235 color: None
+color:None
+r:60 g:25 b:13
+hsv_r:78.0 hsv_g: 77.0 hsv_b:49
+ fps33:38.21898235894445 color: None
+color:None
+r:58 g:28 b:13
+hsv_r:97.0 hsv_g: 77.0 hsv_b:48
+ fps33:58.1017052459516 color: None
+color:None
+r:54 g:28 b:17
+hsv_r:87.0 hsv_g: 68.0 hsv_b:35
+ fps33:77.97263533610946 color: Blue
+color:Blue
+r:50 g:27 b:22
+hsv_r:52.0 hsv_g: 54.0 hsv_b:31
+ fps33:44.1384884136973 color: Blue
+color:Blue
+r:50 g:26 b:22
+hsv_r:49.0 hsv_g: 56.0 hsv_b:32
+ fps33:63.40691469258795 color: Blue
+color:Blue
+r:50 g:27 b:22
+hsv_r:52.0 hsv_g: 54.0 hsv_b:31
+ fps33:73.3436620210887 color: Blue
+color:Blue
+r:49 g:27 b:22
+hsv_r:56.0 hsv_g: 53.0 hsv_b:30
+ fps33:75.83265232326885 color: Blue
+color:Blue
+r:50 g:27 b:22
+hsv_r:52.0 hsv_g: 54.0 hsv_b:31
+ fps33:74.05720742990324 color: Blue
+color:Blue
+r:51 g:28 b:20
+hsv_r:78.0 hsv_g: 61.0 hsv_b:31
+ fps33:69.76669605282855 color: Blue
+color:Blue
+r:54 g:27 b:17
+hsv_r:78.0 hsv_g: 67.0 hsv_b:34
+ fps33:60.09031518624642 color: Blue
+color:Blue
+r:56 g:27 b:16
+hsv_r:84.0 hsv_g: 71.0 hsv_b:35
+ fps33:74.36577365649545 color: None
+color:None
+r:58 g:26 b:14
+hsv_r:85.0 hsv_g: 75.0 hsv_b:37
+ fps33:43.57401539628287 color: None
+color:None
+r:60 g:26 b:13
+hsv_r:80.0 hsv_g: 76.0 hsv_b:39
+ fps33:56.9305860955018 color: None
+color:None
+r:61 g:26 b:12
+hsv_r:84.0 hsv_g: 80.0 hsv_b:40
+ fps33:72.39672046258738 color: None
+color:None
+r:62 g:26 b:11
+hsv_r:85.0 hsv_g: 81.0 hsv_b:43
+ fps33:58.52245011859913 color: None
+color:None
+r:61 g:25 b:13
+hsv_r:72.0 hsv_g: 78.0 hsv_b:37
+ fps33:59.12300188886696 color: None
+color:None
+r:60 g:26 b:12
+hsv_r:87.0 hsv_g: 79.0 hsv_b:39
+ fps33:50.90483645852297 color: None
+color:None
+r:59 g:26 b:14
+hsv_r:82.0 hsv_g: 76.0 hsv_b:38
+ fps33:55.3221483591854 color: None
+color:None
+r:58 g:26 b:14
+hsv_r:85.0 hsv_g: 75.0 hsv_b:37
+ fps33:61.086248580000586 color: None
+color:None
+r:56 g:27 b:16
+hsv_r:84.0 hsv_g: 71.0 hsv_b:35
+ fps33:62.141519497451704 color: None
+color:None
+r:53 g:28 b:17
+hsv_r:95.0 hsv_g: 67.0 hsv_b:37
+ fps33:57.5516129474883 color: Blue
+color:Blue
+r:50 g:29 b:19
+hsv_r:94.0 hsv_g: 61.0 hsv_b:31
+ fps33:56.331139702919764 color: Blue
+color:Blue
+r:49 g:29 b:21
+hsv_r:88.0 hsv_g: 56.0 hsv_b:30
+ fps33:61.731779112210056 color: Blue
+color:Blue
+r:48 g:27 b:24
+hsv_r:46.0 hsv_g: 50.0 hsv_b:26
+ fps33:65.2759162711073 color: Blue
+color:Blue
+r:49 g:28 b:22
+hsv_r:70.0 hsv_g: 54.0 hsv_b:31
+ fps33:67.49113378173978 color: Blue
+color:Blue
+r:48 g:28 b:23
+hsv_r:56.0 hsv_g: 51.0 hsv_b:31
+ fps33:65.92537172676118 color: Blue
+color:Blue
+r:49 g:28 b:21
+hsv_r:78.0 hsv_g: 55.0 hsv_b:34
+ fps33:62.45706202069839 color: Blue
+color:Blue
+r:50 g:26 b:22
+hsv_r:49.0 hsv_g: 56.0 hsv_b:32
+ fps33:49.89773727664232 color: Blue
+color:Blue
+r:51 g:28 b:20
+hsv_r:75.0 hsv_g: 60.0 hsv_b:33
+ fps33:82.77686994276692 color: Blue
+color:Blue
+r:51 g:28 b:20
+hsv_r:75.0 hsv_g: 60.0 hsv_b:33
+ fps33:52.347661125255854 color: Blue
+color:Blue
+r:49 g:31 b:19
+hsv_r:123.0 hsv_g: 60.0 hsv_b:28
+ fps33:59.615441469100006 color: Blue
+color:Blue
+r:51 g:30 b:17
+hsv_r:110.0 hsv_g: 65.0 hsv_b:29
+ fps33:53.34771438019893 color: Blue
+color:Blue
+r:58 g:26 b:15
+hsv_r:75.0 hsv_g: 73.0 hsv_b:38
+ fps33:72.28941245411144 color: None
+color:None
+r:60 g:25 b:13
+hsv_r:77.0 hsv_g: 77.0 hsv_b:40
+ fps33:68.52990000653553 color: None
+color:None
+r:61 g:25 b:13
+hsv_r:75.0 hsv_g: 78.0 hsv_b:41
+ fps33:62.32990548653629 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:85.93300415906903 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:72.85319252414368 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:53.02801658743805 color: None
+color:None
+r:63 g:25 b:11
+hsv_r:77.0 hsv_g: 81.0 hsv_b:43
+ fps33:58.88147347437283 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:75.0 hsv_g: 80.0 hsv_b:40
+ fps33:42.07979934788061 color: None
+color:None
+r:63 g:25 b:11
+hsv_r:77.0 hsv_g: 81.0 hsv_b:38
+ fps33:49.65024799649609 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:28.8395170384224 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:72.85698900449894 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:65.05419238762912 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:69.13649925000412 color: None
+color:None
+r:63 g:24 b:11
+hsv_r:75.0 hsv_g: 81.0 hsv_b:44
+ fps33:57.30080056832154 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:78.02920767212993 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:50.16930014473165 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:34.73860144609447 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:72.01016378807128 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:76.83704911425798 color: None
+color:None
+r:61 g:25 b:12
+hsv_r:80.0 hsv_g: 78.0 hsv_b:38
+ fps33:66.29947994878523 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:75.29492864195315 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:84.0 hsv_g: 82.0 hsv_b:39
+ fps33:66.49287401512389 color: None
+color:None
+r:62 g:26 b:10
+hsv_r:90.0 hsv_g: 82.0 hsv_b:40
+ fps33:50.56546269952259 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:57.64653170054564 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:44.73447098976109 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:54.94889363430323 color: None
+color:None
+r:61 g:25 b:12
+hsv_r:80.0 hsv_g: 78.0 hsv_b:38
+ fps33:64.86103980453407 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:90.0 hsv_g: 80.0 hsv_b:41
+color_s:White color_n: centr_y_b.value: 801.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 192.7232437449493, y: -3.9367666378585997 counts: 31037, prev_distance: 0, head_d: 65 right_d: 35, left_d: 282, back_d:248 imu: 358.2200012207031, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:10.915077276997504
+Resetting setPoints...False
+average ::: r_pass:34.966553016009414 l_pass:258.6597912034503 h:77.78120651000212 l:260.0675805810364 r:34.968411181786664
+power :50 prev_power54.325357398626615
+7
+2 lane: 0, error: 4.020172922400846 target:0, x:195.48471505991648 y:-4.020172922400846 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 801.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 195.48471505991648, y: -4.020172922400846 counts: 31420, prev_distance: 0, head_d: 64 right_d: 34, left_d: 285, back_d:249 imu: 358.2699890136719, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:11.831605077574048
+Resetting setPoints...False
+average ::: r_pass:34.971570063608 l_pass:262.6608225229328 h:76.40308585900192 l:263.95744349388093 r:34.97314950451866
+power :50 prev_power53.89282165876396
+7
+2 lane: 0, error: 4.083740805845458 target:0, x:197.69148961253643 y:-4.083740805845458 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 810.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 197.69148961253643, y: -4.083740805845458 counts: 31774, prev_distance: 0, head_d: 62 right_d: 35, left_d: 288, back_d:252 imu: 358.3500061035156, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.181412639405204
+Resetting setPoints...False
+average ::: r_pass:34.97583455406679 l_pass:266.36169914449283 h:74.96277727310174 l:267.5638269697988 r:34.97717707884086
+power :50 prev_power53.50353949288756
+7
+2 lane: 0, error: 4.146230180003849 target:0, x:199.74855671463325 y:-4.146230180003849 not reverse
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n: centr_y_b.value: 810.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n: color_sensor:White x: 199.74855671463325, y: -4.146230180003849 counts: 32141, prev_distance: 0, head_d: 61 right_d: 35, left_d: 278, back_d:251 imu: 358.260009765625, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:11.926376879178124
+Resetting setPoints...False
+average ::: r_pass:34.979459370956775 l_pass:268.60744427281895 h:73.56649954579156 l:269.12925292432897 r:34.98060051701473
+power :50 prev_power53.15318554359881
+7
+2 lane: 0, error: 4.21792280440491 target:0, x:202.13602641739288 y:-4.21792280440491 not reverse
+absolute is 0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:Blue color_n:Blue centr_y_b.value: 819.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:Blue x: 202.13602641739288, y: -4.21792280440491 counts: 32421, prev_distance: 0, head_d: 61 right_d: 35, left_d: 278, back_d:251 imu: 358.2799987792969, heading: 0, cp: False, counter: 0, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:15.559007916193698
+Resetting setPoints...False
+average ::: r_pass:34.98254046531326 l_pass:270.61632763189607 h:72.10984959121241 l:271.3598649856796 r:34.98351043946252
+green: 0 red:0
+last_red: False
+BLUE RESET...False
+reversing diection red
+reversing diection red complete
+Stopping Motor...
+head: 59
+before update: 195.31037662696528 -4.008186758481049
+in Lane 1
+Resuming Motor...195.31037662696528 -4.008186758481049
+In blue reverse else...
+green:0 r_count:0
+color_s:Blue color_n:Blue centr_y_b.value: 836.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:Blue x: 195.31037662696528, y: -4.008186758481049 counts: 31249, prev_distance: 0, head_d: 59 right_d: 35, left_d: 284, back_d:259 imu: 358.239990234375, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:0.7325098870315503
+Resetting setPoints...False
+average ::: r_pass:34.98515939551627 l_pass:276.42387848711166 h:71.19886463209117 l:278.95588523782766 r:34.98598387354314
+power :50 prev_power5.0
+7
+lane:1, error:19.451873022847366 target:100, x:80.54812697715263 y:-3.9672526158385346 Bluee
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n:Blue centr_y_b.value: 836.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 80.54812697715263, y: -3.9672526158385346 counts: 31249, prev_distance: 0, head_d: 63 right_d: 35, left_d: 335, back_d:297 imu: 355.1099853515625, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.762415372210135
+Resetting setPoints...False
+average ::: r_pass:34.98738548618883 l_pass:284.5602967140449 h:70.37897816888206 l:287.36250245215354 r:34.98808629251167
+power :50 prev_power9.5
+7
+lane:1, error:19.389733117964596 target:100, x:80.6102668820354 y:-3.9725361708348834 Bluee
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n:Blue centr_y_b.value: 833.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 80.6102668820354, y: -3.9725361708348834 counts: 31264, prev_distance: 0, head_d: 63 right_d: 35, left_d: 327, back_d:297 imu: 355.1400146484375, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.50903364727917
+Resetting setPoints...False
+average ::: r_pass:34.9892776632605 l_pass:291.3262522069382 h:69.64108035199385 l:293.3081270843305 r:34.989873348634916
+power :50 prev_power13.55
+7
+lane:1, error:19.159761783768175 target:100, x:80.84023821623182 y:-3.9914433055283203 Bluee
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n:Blue centr_y_b.value: 833.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 80.84023821623182, y: -3.9914433055283203 counts: 31310, prev_distance: 0, head_d: 63 right_d: 35, left_d: 323, back_d:298 imu: 355.29998779296875, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.225155062258079
+Resetting setPoints...False
+average ::: r_pass:34.99088601377143 l_pass:296.2773143758975 h:68.97697231679447 l:297.76190802168094 r:34.99139234633968
+power :50 prev_power17.195
+7
+lane:1, error:18.737117822702373 target:100, x:81.26288217729763 y:-4.026265165810277 Bluee
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+ fps33:71.75638130431807 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:68.47284303322178 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:72.49056342896647 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:70.26929585015665 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:58.28822368603908 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:72.4993345202496 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:55.46260446419126 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:59.457408956239455 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:72.92792933771496 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:76.76532815988872 color: None
+color:None
+r:62 g:26 b:11
+hsv_r:89.0 hsv_g: 82.0 hsv_b:45
+ fps33:69.63927676036461 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:64.00390648843313 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:68.48625965416456 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:56.469929316728376 color: None
+color:None
+r:61 g:25 b:12
+hsv_r:80.0 hsv_g: 78.0 hsv_b:38
+ fps33:58.620600978336824 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:76.59709996712809 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:62.440325726110196 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:71.26988496372194 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:70.11306877068637 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:9.563765214496469 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:76.94276489580275 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:54.16827885472227 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:47.43990137197019 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:71.69505316057571 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:77.54879266353585 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:76.79203207674985 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:76.28365131040503 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:69.06705308918455 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:58.53470099783686 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:92.30422535211268 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:79.80637795874877 color: None
+color:None
+r:61 g:26 b:12
+hsv_r:84.0 hsv_g: 80.0 hsv_b:40
+ fps33:55.829515354000556 color: None
+color:None
+r:64 g:24 b:11
+hsv_r:72.0 hsv_g: 82.0 hsv_b:45
+ fps33:52.73002024062457 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:74.51506537805571 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:71.52267107753696 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:71.17313468293428 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:68.99207158601178 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:74.35127277884138 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:52.645303811926546 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:57.39646395533417 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:51.580938326262064 color: None
+color:None
+r:62 g:26 b:11
+hsv_r:89.0 hsv_g: 82.0 hsv_b:45
+ fps33:40.761764077047175 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:84.0 hsv_g: 81.0 hsv_b:48
+ fps33:66.74364278667133 color: None
+color:None
+r:63 g:25 b:11
+hsv_r:81.0 hsv_g: 82.0 hsv_b:40
+ fps33:57.05526913607117 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:72.07203244209224 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:65.19373290226312 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:55.56767928352831 color: None
+color:None
+r:65 g:23 b:11
+hsv_r:69.0 hsv_g: 82.0 hsv_b:47
+ fps33:58.46127256254791 color: None
+color:None
+r:63 g:25 b:11
+hsv_r:77.0 hsv_g: 81.0 hsv_b:43
+ fps33:47.65604690269509 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:83.0 hsv_g: 81.0 hsv_b:44
+ fps33:56.458527392650424 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:74.810116648236 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:78.0 hsv_g: 80.0 hsv_b:47
+ fps33:66.76170314365301 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:76.14654515086598 color: None
+color:None
+r:61 g:25 b:13
+hsv_r:72.0 hsv_g: 78.0 hsv_b:42
+ fps33:89.62188034188034 color: None
+color:None
+r:61 g:25 b:13
+hsv_r:72.0 hsv_g: 78.0 hsv_b:42
+ fps33:65.47870613213438 color: None
+color:None
+r:61 g:25 b:13
+hsv_r:72.0 hsv_g: 78.0 hsv_b:42
+ fps33:69.4225797374911 color: None
+color:None
+r:60 g:26 b:13
+hsv_r:84.0 hsv_g: 78.0 hsv_b:41
+ fps33:52.02947378867194 color: None
+color:None
+r:58 g:26 b:14
+hsv_r:80.0 hsv_g: 75.0 hsv_b:40
+ fps33:68.43150819030215 color: None
+color:None
+r:57 g:27 b:15
+hsv_r:85.0 hsv_g: 73.0 hsv_b:38
+ fps33:70.2281160002679 color: None
+color:None
+r:55 g:27 b:16
+hsv_r:87.0 hsv_g: 70.0 hsv_b:44
+ fps33:54.05448874913009 color: None
+color:None
+r:54 g:28 b:17
+hsv_r:88.0 hsv_g: 67.0 hsv_b:40
+ fps33:55.33090602079046 color: Blue
+color:Blue
+r:53 g:28 b:18
+hsv_r:81.0 hsv_g: 64.0 hsv_b:34
+ fps33:75.17751648981933 color: Blue
+color:Blue
+r:51 g:28 b:20
+hsv_r:75.0 hsv_g: 60.0 hsv_b:33
+ fps33:71.86211150327246 color: Blue
+color:Blue
+r:50 g:28 b:21
+hsv_r:66.0 hsv_g: 56.0 hsv_b:32
+ fps33:60.74387753624238 color: Blue
+color:Blue
+r:50 g:28 b:21
+hsv_r:66.0 hsv_g: 56.0 hsv_b:32
+ fps33:71.30987112788603 color: Blue
+color:Blue
+r:49 g:27 b:22
+hsv_r:56.0 hsv_g: 53.0 hsv_b:30
+ fps33:46.28657190783085 color: Blue
+color:Blue
+r:50 g:27 b:22
+hsv_r:52.0 hsv_g: 54.0 hsv_b:31
+ fps33:50.26188450430802 color: Blue
+color:Blue
+r:46 g:31 b:22
+hsv_r:107.0 hsv_g: 51.0 hsv_b:27
+ fps33:47.15615267862162 color: Blue
+color:Blue
+r:51 g:27 b:20
+hsv_r:63.0 hsv_g: 59.0 hsv_b:32
+ fps33:63.95510963374097 color: Blue
+color:Blue
+r:50 g:29 b:19
+hsv_r:94.0 hsv_g: 61.0 hsv_b:31
+ fps33:69.84802411364053 color: Blue
+color:Blue
+r:54 g:27 b:17
+hsv_r:78.0 hsv_g: 67.0 hsv_b:34
+ fps33:71.52145146988609 color: Blue
+color:Blue
+r:54 g:27 b:17
+hsv_r:78.0 hsv_g: 67.0 hsv_b:34
+ fps33:75.54446065452711 color: Blue
+color:Blue
+r:57 g:26 b:15
+hsv_r:80.0 hsv_g: 72.0 hsv_b:36
+ fps33:72.45174552175641 color: None
+color:None
+r:58 g:26 b:14
+hsv_r:85.0 hsv_g: 75.0 hsv_b:37
+ fps33:72.05469850541144 color: None
+color:None
+r:59 g:25 b:14
+hsv_r:75.0 hsv_g: 75.0 hsv_b:37
+ fps33:56.184750576006 color: None
+color:None
+r:61 g:26 b:12
+hsv_r:84.0 hsv_g: 80.0 hsv_b:40
+ fps33:65.79610020863727 color: None
+color:None
+r:63 g:24 b:12
+hsv_r:70.0 hsv_g: 80.0 hsv_b:42
+ fps33:73.54170392579735 color: None
+color:None
+r:63 g:25 b:11
+hsv_r:77.0 hsv_g: 81.0 hsv_b:43
+ fps33:43.5432546067999 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:63.74031579107336 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:73.056225179405 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:74.30385487528345 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:63.13109967187453 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:74.56540444444444 color: None
+color:None
+r:60 g:26 b:12
+hsv_r:90.0 hsv_g: 78.0 hsv_b:38
+ fps33:46.786364447617345 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:62.61837508584396 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:62.25034877853305 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+color_s:White color_n:Blue centr_y_b.value: 835.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 81.26288217729763, y: -4.026265165810277 counts: 31375, prev_distance: 0, head_d: 63 right_d: 35, left_d: 326, back_d:298 imu: 355.2900085449219, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:13.40174523192541
+Resetting setPoints...False
+average ::: r_pass:34.99225311170571 l_pass:300.5857172195129 h:68.37927508511503 l:301.9976218184288 r:34.99268349438873
+power :50 prev_power20.4755
+7
+lane:1, error:18.178500376936256 target:100, x:81.82149962306374 y:-4.080841090881267 Bluee
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n:Blue centr_y_b.value: 834.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 81.82149962306374, y: -4.080841090881267 counts: 31477, prev_distance: 0, head_d: 62 right_d: 35, left_d: 324, back_d:325 imu: 354.4200134277344, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.708972296206069
+Resetting setPoints...False
+average ::: r_pass:34.99341514494986 l_pass:304.1978596365859 h:67.74134757660353 l:305.2979785456645 r:34.99378097023042
+power :50 prev_power23.42795
+7
+lane:1, error:17.472275274972475 target:100, x:82.52772472502753 y:-4.162678852326945 Bluee
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n:Blue centr_y_b.value: 834.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 82.52772472502753, y: -4.162678852326945 counts: 31584, prev_distance: 0, head_d: 63 right_d: 35, left_d: 0, back_d:332 imu: 353.3900146484375, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.758960131899956
+Resetting setPoints...False
+average ::: r_pass:34.99440287320738 l_pass:274.76818069109805 h:67.26721281894318 l:259.5032817638148 r:34.99471382469585
+power :50 prev_power26.085155
+7
+lane:1, error:16.681381267221127 target:100, x:83.31861873277887 y:-4.270877351362403 Bluee
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n:Blue centr_y_b.value: 839.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 83.31861873277887, y: -4.270877351362403 counts: 31725, prev_distance: 0, head_d: 64 right_d: 36, left_d: 0, back_d:338 imu: 352.2099914550781, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:13.120033032309728
+Resetting setPoints...False
+average ::: r_pass:35.095242442226265 l_pass:233.55295358743334 h:66.94049153704887 l:220.57778949924258 r:35.14550675099147
+power :50 prev_power28.4766395
+7
+lane:1, error:15.727145071989554 target:100, x:84.27285492801045 y:-4.425259022493348 Bluee
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:Blue color_n:Blue centr_y_b.value: 839.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:Blue x: 84.27285492801045, y: -4.425259022493348 counts: 31871, prev_distance: 0, head_d: 64 right_d: 36, left_d: 0, back_d:337 imu: 350.80999755859375, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:13.194365275601946
+Resetting setPoints...False
+average ::: r_pass:35.23095607589232 l_pass:198.52001054931833 h:66.64644238334398 l:187.4911210743562 r:35.273680738342755
+power :50 prev_power30.62897555
+7
+lane:1, error:14.777528355050976 target:100, x:85.22247164494902 y:-4.605892650541947 Bluee
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:Blue color_n:Blue centr_y_b.value: 875.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:Blue x: 85.22247164494902, y: -4.605892650541947 counts: 32044, prev_distance: 0, head_d: 65 right_d: 37, left_d: 0, back_d:327 imu: 349.2300109863281, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:13.039678912630535
+Resetting setPoints...False
+average ::: r_pass:35.44631266450848 l_pass:168.74200896692057 h:66.48179814500958 l:159.36745291320275 r:35.532628627591336
+power :50 prev_power32.566077995
+7
+lane:1, error:13.662419586288777 target:100, x:86.33758041371122 y:-4.848821987840304 Bluee
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:Blue color_n:Blue centr_y_b.value: 875.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:Blue x: 86.33758041371122, y: -4.848821987840304 counts: 32219, prev_distance: 0, head_d: 67 right_d: 38, left_d: 0, back_d:346 imu: 347.7099914550781, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:13.05485817799261
+Resetting setPoints...False
+average ::: r_pass:35.7793657648322 l_pass:143.43070762188248 h:66.53361833050862 l:135.46233497622234 r:35.902734333452635
+power :50 prev_power34.3094701955
+7
+lane:1, error:12.585312372918793 target:100, x:87.41468762708121 y:-5.117374978197827 Bluee
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n:Blue centr_y_b.value: 906.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 87.41468762708121, y: -5.117374978197827 counts: 32439, prev_distance: 0, head_d: 73 right_d: 40, left_d: 0, back_d:342 imu: 346.0, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:11.600960315089559
+Resetting setPoints...False
+average ::: r_pass:36.312460900107375 l_pass:121.91610147860011 h:67.18025649745776 l:115.14298472978898 r:36.51732418343474
+power :50 prev_power35.878523175949994
+7
+lane:1, error:11.171529459028264 target:100, x:88.82847054097174 y:-5.5265122899904044 Bluee
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n:Blue centr_y_b.value: 906.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 88.82847054097174, y: -5.5265122899904044 counts: 32637, prev_distance: 0, head_d: 82 right_d: 41, left_d: 146, back_d:278 imu: 343.8599853515625, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:13.468103074576543
+Resetting setPoints...False
+average ::: r_pass:36.96559176509127 l_pass:117.62868625681008 h:68.66223084771198 l:118.87153702032063 r:37.18972555591953
+power :50 prev_power37.29067085835499
+7
+lane:1, error:9.851832200073616 target:100, x:90.14816779992638 y:-5.965261708125935 Bluee
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n:Blue centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 90.14816779992638, y: -5.965261708125935 counts: 32874, prev_distance: 0, head_d: 76 right_d: 42, left_d: 125, back_d:203 imu: 341.6099853515625, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:11.88844829296637
+Resetting setPoints...False
+average ::: r_pass:37.67075300032758 l_pass:119.48438331828856 h:69.39600776294078 l:119.79080646727253 r:37.9112667225316
+power :100 prev_power43.5616037725195
+7
+lane:1, error:8.406386294133199 target:100, x:91.5936137058668 y:-6.515490024080519 Bluee
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n:Blue centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 91.5936137058668, y: -6.515490024080519 counts: 33106, prev_distance: 0, head_d: 76 right_d: 42, left_d: 109, back_d:174 imu: 339.1600036621094, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.911112479221819
+Resetting setPoints...False
+average ::: r_pass:38.32014005027845 l_pass:118.71172582054528 h:70.0564069866467 l:118.17218549718164 r:38.524576714151856
+power :100 prev_power49.20544339526755
+7
+lane:1, error:6.948261775144019 target:100, x:93.05173822485598 y:-7.1344271612891665 Bluee
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n:Blue centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 93.05173822485598, y: -7.1344271612891665 counts: 33387, prev_distance: 0, head_d: 92 right_d: 44, left_d: 91, back_d:143 imu: 337.0, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:11.568834263774576
+Resetting setPoints...False
+average ::: r_pass:38.67211904273667 l_pass:115.45496694746348 h:72.25076628798203 l:114.0963576726044 r:38.74589020702908
+power :100 prev_power54.284899055740794
+7
+lane:1, error:5.268741249972052 target:100, x:94.73125875002795 y:-7.944531694659979 Bluee
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n:Blue centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 94.73125875002795, y: -7.944531694659979 counts: 33678, prev_distance: 0, head_d: 88 right_d: 49, left_d: 85, back_d:130 imu: 334.25, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:13.373371892446857
+Resetting setPoints...False
+average ::: r_pass:39.77130118632617 l_pass:111.18672190534396 h:73.82568965918382 l:109.73190402171373 r:40.284006675974716
+power :100 prev_power58.85640915016672
+7
+lane:1, error:3.3223004712914985 target:100, x:96.6776995287085 y:-9.038163212896489 Bluee
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n:Blue centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 96.6776995287085, y: -9.038163212896489 counts: 34053, prev_distance: 0, head_d: 95 right_d: 53, left_d: 78, back_d:122 imu: 330.6700134277344, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:11.500191930159357
+Resetting setPoints...False
+average ::: r_pass:41.55560600837724 l_pass:106.55871361954236 h:75.94312069326544 l:104.97211841845667 r:42.191405674578505
+power :100 prev_power62.97076823515005
+7
+lane:1, error:1.500221991473623 target:100, x:98.49977800852638 y:-10.2056723831131 Bluee
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n:Blue centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 98.49977800852638, y: -10.2056723831131 counts: 34428, prev_distance: 0, head_d: 113 right_d: 60, left_d: 71, back_d:100 imu: 327.3500061035156, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.79223128044187
+Resetting setPoints...False
+average ::: r_pass:43.972265107120656 l_pass:101.574906576611 h:79.64880862393889 l:99.87630065568817 r:44.86269482339173
+power :100 prev_power66.67369141163505
+7
+lane:1, error:-0.6018252898265786 target:100, x:100.60182528982658 y:-11.736826789545422 Bluee
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n:Blue centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 100.60182528982658, y: -11.736826789545422 counts: 34806, prev_distance: 0, head_d: 138 right_d: 62, left_d: 65, back_d:95 imu: 323.92999267578125, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.896305110490017
+Resetting setPoints...False
+average ::: r_pass:46.576425341052555 l_pass:96.38867059011936 h:85.483927761545 l:94.64485555733494 r:47.433290599882966
+power :100 prev_power70.00632227047154
+7
+lane:1, error:-2.3500795815875932 target:100, x:102.3500795815876 y:-13.165210458388861 Bluee
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n:Blue centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 102.3500795815876, y: -13.165210458388861 counts: 35220, prev_distance: 0, head_d: 81 right_d: 67, left_d: 62, back_d:85 imu: 320.75, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:13.248252488210415
+Resetting setPoints...False
+average ::: r_pass:49.38996153989467 l_pass:91.28037000160144 h:85.0355349853905 l:89.59812722373469 r:50.368297009900516
+power :100 prev_power73.00569004342438
+7
+lane:1, error:-4.554734857324718 target:100, x:104.55473485732472 y:-15.263207352208118 Bluee
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n:Blue centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 104.55473485732472, y: -15.263207352208118 counts: 35675, prev_distance: 0, head_d: 89 right_d: 87, left_d: 61, back_d:84 imu: 316.4200134277344, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.327124173401911
+Resetting setPoints...False
+average ::: r_pass:54.03146730891047 l_pass:86.73831450136122 h:90.93198148685146 l:85.30840814017449 r:55.86305245841543
+power :100 prev_power75.70512103908194
+7
+lane:1, error:-6.419486390396301 target:100, x:106.4194863903963 y:-17.326968324010302 Bluee
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+ fps33:66.7606404991564 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:49.50024193643563 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:73.61398459027326 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:70.47355333019692 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:70.54704477411107 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:58.950161630358394 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:83.46873631840796 color: None
+color:None
+r:61 g:26 b:12
+hsv_r:84.0 hsv_g: 80.0 hsv_b:40
+ fps33:49.23007582337613 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:60.295908685776716 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:54.50970810698412 color: None
+color:None
+r:64 g:24 b:11
+hsv_r:72.0 hsv_g: 82.0 hsv_b:45
+ fps33:59.0605629637974 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:75.17482166541205 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:78.4392579293836 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:75.33279451119851 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:72.29813493294722 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:75.0309296792544 color: None
+color:None
+r:61 g:25 b:13
+hsv_r:72.0 hsv_g: 78.0 hsv_b:37
+ fps33:62.22910639308022 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:83.0 hsv_g: 81.0 hsv_b:44
+ fps33:62.04316376492167 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:65.78268506900878 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:58.086417017504985 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:51.23940530437226 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:85.5648626042963 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:75.58802645569392 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:63.23484448732832 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:65.92019111383532 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:74.03367811628482 color: None
+color:None
+r:62 g:26 b:11
+hsv_r:85.0 hsv_g: 81.0 hsv_b:43
+ fps33:60.21454002526703 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:86.69141416229176 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:71.49463062080251 color: None
+color:None
+r:62 g:26 b:11
+hsv_r:89.0 hsv_g: 82.0 hsv_b:45
+ fps33:46.45472266524898 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:72.8165136021944 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:84.0 hsv_g: 82.0 hsv_b:39
+ fps33:67.50199562250548 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:76.22819548188939 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:74.3684107874253 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:74.13836744794429 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:72.92412546074137 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:53.51857192073599 color: None
+color:None
+r:61 g:26 b:12
+hsv_r:84.0 hsv_g: 80.0 hsv_b:40
+ fps33:50.46204191631175 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:35.93505770268765 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:77.56743661346698 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:76.31002110472309 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:84.0 hsv_g: 82.0 hsv_b:39
+ fps33:62.62024484920872 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:66.98988995543914 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:83.0 hsv_g: 81.0 hsv_b:44
+ fps33:65.29319094616893 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:58.696894635934896 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:84.80708494247529 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:83.0 hsv_g: 81.0 hsv_b:44
+ fps33:52.51545049331397 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:65.41947156627258 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:54.73377614803409 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:73.47342605892864 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:69.76321479658029 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:70.1294810058855 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:72.82030626063406 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:74.96655883036337 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:63.73740996261739 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:58.43195274515541 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:51.3083538233819 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:42.999097843024686 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:73.92667794698252 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:74.95584109226728 color: None
+color:None
+r:61 g:25 b:12
+hsv_r:77.0 hsv_g: 79.0 hsv_b:39
+ fps33:66.82871801408496 color: None
+color:None
+r:63 g:26 b:10
+hsv_r:91.0 hsv_g: 83.0 hsv_b:43
+ fps33:62.72700625130859 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:73.88760877990346 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:83.0 hsv_g: 81.0 hsv_b:44
+ fps33:59.168039724636046 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:47.630611294700145 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:39.50629191470123 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:46.26104603710321 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:73.47085201793722 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:80.33218417222095 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:75.46562550603645 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:67.66971056113066 color: None
+color:None
+r:63 g:26 b:10
+hsv_r:86.0 hsv_g: 82.0 hsv_b:46
+ fps33:58.63371264014315 color: None
+color:None
+r:64 g:25 b:10
+hsv_r:86.0 hsv_g: 84.0 hsv_b:45
+ fps33:61.346243290283894 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:73.19008149091734 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:69.43177341124667 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:64.28446188272078 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:57.00718994223581 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:78.12076736822499 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:74.01277571907535 color: None
+color:None
+r:62 g:26 b:11
+hsv_r:89.0 hsv_g: 82.0 hsv_b:45
+ fps33:63.58088770312879 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:67.30701585467617 color: None
+color:None
+r:62 g:26 b:11
+hsv_r:87.0 hsv_g: 81.0 hsv_b:38
+ fps33:40.25939221746559 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:63.65712030839746 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:70.19990627301333 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:59.19392579420523 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:57.917176431599444 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+color_s:White color_n:Blue centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 106.4194863903963, y: -17.326968324010302 counts: 36180, prev_distance: 0, head_d: 154 right_d: 72, left_d: 65, back_d:73 imu: 312.1000061035156, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:11.356798015818217
+Resetting setPoints...False
+average ::: r_pass:57.47674721257389 l_pass:83.37756732615703 h:97.23878333816631 l:82.41214691914833 r:58.28359458965311
+power :100 prev_power78.13460893517376
+7
+lane:1, error:-8.513753331933529 target:100, x:108.51375333193353 y:-20.106154423868098 Bluee
+absolute is 0
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n:Blue centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 108.51375333193353, y: -20.106154423868098 counts: 36674, prev_distance: 0, head_d: 159 right_d: 75, left_d: 72, back_d:69 imu: 307.0, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:13.084098388782307
+Resetting setPoints...False
+average ::: r_pass:59.955235130687804 l_pass:81.3709322272335 h:103.41490500434969 l:80.85032488127608 r:60.79105540120514
+power :100 prev_power80.32114804165639
+7
+lane:1, error:-10.042217351580462 target:100, x:110.04221735158046 y:-22.43744948738979 Bluee
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n:Blue centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 110.04221735158046, y: -22.43744948738979 counts: 37166, prev_distance: 0, head_d: 150 right_d: 104, left_d: 75, back_d:69 imu: 303.25, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.726131888270597
+Resetting setPoints...False
+average ::: r_pass:65.11194986108463 l_pass:80.26529239314847 h:108.07341450391472 l:79.97277614908467 r:67.27239709102437
+power :100 prev_power82.28903323749076
+7
+lane:1, error:-11.617846897218726 target:100, x:111.61784689721873 y:-25.37845168009923 Bluee
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n:Blue centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 111.61784689721873, y: -25.37845168009923 counts: 37676, prev_distance: 0, head_d: 148 right_d: 94, left_d: 97, back_d:62 imu: 298.17999267578125, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.851928568802167
+Resetting setPoints...False
+average ::: r_pass:69.94515738192194 l_pass:81.6754985341762 h:112.06607305352324 l:82.52685972672197 r:71.28153752737072
+power :100 prev_power84.06012991374168
+7
+lane:1, error:-12.856955965719237 target:100, x:112.85695596571924 y:-28.178618252088594 Bluee
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n:Blue centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 112.85695596571924, y: -28.178618252088594 counts: 38230, prev_distance: 0, head_d: 0 right_d: 77, left_d: 123, back_d:61 imu: 293.8699951171875, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:11.907788048786028
+Resetting setPoints...False
+average ::: r_pass:71.85338377463366 l_pass:86.57417375404977 h:100.85946574817092 l:88.59783076771367 r:72.1393068982651
+power :100 prev_power85.6541169223675
+7
+lane:1, error:-13.99809795010762 target:100, x:113.99809795010762 y:-31.6110147103563 Bluee
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n:Blue centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 113.99809795010762, y: -31.6110147103563 counts: 38766, prev_distance: 0, head_d: 0 right_d: 67, left_d: 361, back_d:61 imu: 288.3900146484375, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.7386934825987
+Resetting setPoints...False
+average ::: r_pass:71.42537620843859 l_pass:115.83804769094232 h:90.77351917335383 l:129.45815615255663 r:71.06841086352534
+power :100 prev_power87.08870523013076
+7
+lane:1, error:-14.765776960692548 target:100, x:114.76577696069255 y:-34.82592791922769 Bluee
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n:Blue centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 114.76577696069255, y: -34.82592791922769 counts: 39316, prev_distance: 0, head_d: 250 right_d: 58, left_d: 454, back_d:61 imu: 283.42999267578125, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.758028701963147
+Resetting setPoints...False
+average ::: r_pass:69.76156977717281 l_pass:161.91234053730096 h:106.69616725601846 l:178.1394327296731 r:69.10814923399654
+power :100 prev_power88.37983470711768
+7
+lane:1, error:-15.238540884923438 target:100, x:115.23854088492344 y:-38.286171849394655 Bluee
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n:Blue centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 115.23854088492344, y: -38.286171849394655 counts: 39846, prev_distance: 0, head_d: 258 right_d: 53, left_d: 477, back_d:57 imu: 277.7799987792969, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.779836500638336
+Resetting setPoints...False
+average ::: r_pass:67.49733431059688 l_pass:208.02548945670583 h:121.82655053041661 l:222.96851782022213 r:66.69192684889705
+power :100 prev_power89.54185123640592
+7
+lane:1, error:-15.416628849263518 target:100, x:115.41662884926352 y:-41.73030662690984 Bluee
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n:Blue centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 115.41662884926352, y: -41.73030662690984 counts: 40400, prev_distance: 0, head_d: 250 right_d: 51, left_d: 465, back_d:58 imu: 272.9599914550781, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:13.543600192451137
+Resetting setPoints...False
+average ::: r_pass:65.12273416400735 l_pass:247.17166603819993 h:134.64389547737494 l:259.2732401471888 r:64.3381378215625
+power :100 prev_power90.58766611276533
+7
+lane:1, error:-15.34591223620707 target:100, x:115.34591223620707 y:-45.13465329724897 Bluee
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+Image Process started
+fps:5.786222246435315e-10
+fps:4.470295578735555
+fps:5.360852254935167
+fps:6.53377407927819
+fps:6.77746824806903
+fps:6.730258776863323
+fps:6.876381652507222
+fps:6.8708620554084865
+fps:7.158284935069811
+fps:6.863250562487216
+fps:6.753634203051636
+fps:6.862554340979111
+fps:6.7959059011862
+fps:6.916671201589697
+fps:6.363278322425213
+fps:6.647021814407176
+fps:6.885457536189535
+fps:6.803192110556024
+fps:6.77782966806555
+fps:6.944786820101002
+fps:6.736604059658151
+fps:6.878964261171767
+fps:6.656146253213572
+fps:6.838509397785227
+fps:6.61827293584496
+fps:6.529430903421554
+fps:6.745542298110774
+fps:6.823312759678673
+fps:6.767309519852724
+fps:6.888488157060599
+fps:6.590154764710504
+fps:6.898809983963156
+fps:6.925384963394216
+fps:6.713786755878539
+fps:6.789096795079313
+fps:6.861454149864629
+fps:6.596425229419119
+fps:6.756027473164697
+fps:6.61202342573836
+fps:6.817024748524629
+fps:6.9046019112212225
+fps:6.861835808857572
+fps:6.758672921020786
+fps:6.827978029634598
+fps:6.987443837118064
+fps:6.434432302988557
+fps:6.515413568289603
+fps:6.482394943047463
+fps:6.190242440968937
+fps:6.962182188795252
+fps:6.901295914807917
+fps:6.638237528488225
+fps:5.913475515276781
+fps:7.052332111510912
+fps:6.714152163612381
+fps:6.729006268078682
+fps:6.812916639594568
+fps:6.859546491565201
+fps:6.820161759779897
+fps:6.664723856679098
+fps:6.66717109258017
+fps:6.735305925162268
+fps:6.914048810240095
+fps:6.910574356608561
+fps:6.750558079722915
+fps:6.758553123469204
+fps:6.833684985719383
+fps:6.8140677393361235
+fps:6.92814184317502
+fps:6.842068001376797
+fps:6.848100418464694
+Encoder Process Started
+created uart
+color_s:White color_n:Blue centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 115.34591223620707, y: -45.13465329724897 counts: 40984, prev_distance: 0, head_d: 245 right_d: 53, left_d: 422, back_d:58 imu: 268.80999755859375, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.913974654235995
+Resetting setPoints...False
+average ::: r_pass:63.204324039406245 l_pass:276.7459161324699 h:145.67950592963746 l:285.48225412511044 r:62.637417148328126
+power :100 prev_power91.52889950148881
+7
+lane:1, error:-15.032583368479678 target:100, x:115.03258336847968 y:-48.781993572572574 Bluee
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n:Blue centr_y_b.value: 0.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 115.03258336847968, y: -48.781993572572574 counts: 41535, prev_distance: 0, head_d: 247 right_d: 51, left_d: 434, back_d:59 imu: 265.0899963378906, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:13.025424755208705
+Resetting setPoints...False
+average ::: r_pass:61.473675433495316 l_pass:300.33402871259943 h:156.31155533667373 l:307.7599160063439 r:60.891804576078904
+power :100 prev_power92.37600955133993
+7
+lane:1, error:-14.57496923946347 target:100, x:114.57496923946347 y:-52.22540077988472 Bluee
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n:Blue centr_y_b.value: 759.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 114.57496923946347, y: -52.22540077988472 counts: 42129, prev_distance: 0, head_d: 257 right_d: 52, left_d: 462, back_d:63 imu: 262.42999267578125, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.240710691897318
+Resetting setPoints...False
+average ::: r_pass:60.00262411847102 l_pass:323.1839244057095 h:166.38039980300636 l:330.89592860539227 r:59.558033889667065
+power :50 prev_power88.13840859620595
+7
+lane:1, error:-13.896931261471238 target:100, x:113.89693126147124 y:-56.11438478528817 Bluee
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n:Blue centr_y_b.value: 759.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 113.89693126147124, y: -56.11438478528817 counts: 42727, prev_distance: 0, head_d: 262 right_d: 53, left_d: 466, back_d:66 imu: 260.1099853515625, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:12.846693150458362
+Resetting setPoints...False
+average ::: r_pass:59.00223050070036 l_pass:344.4063357448531 h:175.94235982270573 l:351.1615393145834 r:58.724328806217
+power :0 prev_power0
+7
+lane:1, error:-13.164058061223031 target:100, x:113.16405806122303 y:-59.45881850927991 Bluee
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n:Blue centr_y_b.value: 751.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 113.16405806122303, y: -59.45881850927991 counts: 43272, prev_distance: 0, head_d: 261 right_d: 55, left_d: 475, back_d:70 imu: 257.6400146484375, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:13.391732465732868
+Resetting setPoints...False
+average ::: r_pass:58.3518959255953 l_pass:363.5453853831251 h:184.44812384043516 l:369.7373084173959 r:58.16567948528445
+power :0 prev_power0
+7
+lane:1, error:-12.346659406762456 target:100, x:112.34665940676246 y:-62.82212427235364 Bluee
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n:Blue centr_y_b.value: 751.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 112.34665940676246, y: -62.82212427235364 counts: 43788, prev_distance: 0, head_d: 256 right_d: 60, left_d: 475, back_d:74 imu: 256.3399963378906, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:13.624328415417699
+Resetting setPoints...False
+average ::: r_pass:58.349111536756006 l_pass:380.2635775756563 h:191.60331145639165 l:385.52671215478654 r:58.44082756249178
+power :0 prev_power0
+7
+lane:1, error:-12.042543863751803 target:100, x:112.0425438637518 y:-64.05746959027456 Bluee
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n:Blue centr_y_b.value: 751.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 112.0425438637518, y: -64.05746959027456 counts: 43936, prev_distance: 0, head_d: 240 right_d: 61, left_d: 474, back_d:77 imu: 256.1700134277344, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:13.18557174204176
+Resetting setPoints...False
+average ::: r_pass:58.696744806242606 l_pass:394.37404093930786 h:196.4429803107525 l:398.7977053315685 r:58.82470342811801
+power :0 prev_power0
+7
+lane:1, error:-12.002749939398086 target:100, x:112.00274993939809 y:-64.22108292100461 Bluee
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n:Blue centr_y_b.value: 751.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 112.00274993939809, y: -64.22108292100461 counts: 43960, prev_distance: 0, head_d: 229 right_d: 61, left_d: 476, back_d:79 imu: 256.3299865722656, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:13.332646723184855
+Resetting setPoints...False
+average ::: r_pass:59.042233085306215 l_pass:406.5179347984117 h:199.69868227967726 l:410.3780495318332 r:59.15099791390031
+power :0 prev_power0
+7
+lane:1, error:-11.973590398648085 target:100, x:111.97359039864808 y:-64.34235474836866 Bluee
+centr_pink:0.0
+g_last:False r_last:False
+green:0 r_count:0
+color_s:White color_n:Blue centr_y_b.value: 751.0 centr_x:0.0 centr_red: 0.0 centr_pink:0.0 setPointL:-70 setPointR:70 g_count:0 r_count:0 color_n:Blue color_sensor:White x: 111.97359039864808, y: -64.34235474836866 counts: 43980, prev_distance: 0, head_d: 228 right_d: 61, left_d: 476, back_d:79 imu: 256.4800109863281, heading: -90, cp: False, counter: 1, pink_b: 0 p_flag = False, g_flag: False r_flag: False p_past: False, g_past: False, r_past: False , red_stored:False green_stored:False
+fps 2222:13.440008203130008
+Resetting setPoints...False
+average ::: r_pass:59.33589812251029 l_pass:416.9402445786499 h:202.52881405170956 l:420.2213421020582 r:59.42834822681526
+ fps33:78.72635471216472 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:69.33306884866518 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:70.28342577542436 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:63.85968331303289 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:60.06191914997208 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:63.770358207139815 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:36.28478986798623 color: None
+color:None
+r:62 g:25 b:12
+hsv_r:81.0 hsv_g: 80.0 hsv_b:41
+ fps33:63.5308088458043 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:64.3337628075342 color: None
+color:None
+r:63 g:26 b:10
+hsv_r:88.0 hsv_g: 82.0 hsv_b:41
+ fps33:66.78934377935954 color: None
+color:None
+r:61 g:26 b:11
+hsv_r:88.0 hsv_g: 80.0 hsv_b:42
+ fps33:69.80501281496521 color: None
+color:None
+r:62 g:26 b:11
+hsv_r:85.0 hsv_g: 81.0 hsv_b:43
+ fps33:66.49709076496235 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:74.69687093729408 color: None
+color:None
+r:63 g:26 b:10
+hsv_r:88.0 hsv_g: 82.0 hsv_b:41
+ fps33:63.472162951529185 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:48.87213068910069 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:53.27182665684457 color: None
+color:None
+r:63 g:26 b:10
+hsv_r:88.0 hsv_g: 82.0 hsv_b:41
+ fps33:57.78551746941475 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:68.32894565359051 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:67.71559573781079 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:70.09783571488259 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:69.30328315791213 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:71.38876312698926 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:52.60634641916468 color: None
+color:None
+r:62 g:25 b:11
+hsv_r:79.0 hsv_g: 80.0 hsv_b:42
+ fps33:69.10346645577962 color: None
+color:None
+r:61 g:25 b:12
+hsv_r:77.0 hsv_g: 79.0 hsv_b:39
+ fps33:52.8749322407816 color: None
+color:None
+r:62 g:26 b:10
+hsv_r:94.0 hsv_g: 83.0 hsv_b:42
+ fps33:48.33483912602563 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:84.57622197128569 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:53.22248023652721 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:75.41948824915038 color: None
+color:None
+r:63 g:25 b:10
+hsv_r:85.0 hsv_g: 83.0 hsv_b:42
+ fps33:75.63437021008025 color: None
+color:None
+r:64 g:25 b:10
+hsv_r:83.0 hsv_g: 83.0 hsv_b:43
+ fps33:60.241350089766605 color: None
+color:None
+r:64 g:25 b:10
+hsv_r:83.0 hsv_g: 83.0 hsv_b:43
+ fps33:78.35134125382949 color: None
+color:None
+r:65 g:24 b:10
+hsv_r:78.0 hsv_g: 84.0 hsv_b:45
+ fps33:76.85394411360512 color: None
+color:None
+r:65 g:24 b:10
+hsv_r:78.0 hsv_g: 84.0 hsv_b:45
+ fps33:73.18625021811202 color: None
+color:None
+r:67 g:22 b:10
+hsv_r:67.0 hsv_g: 85.0 hsv_b:47
+ fps33:55.87190622086053 color: None
+color:None
+r:67 g:22 b:10
+hsv_r:67.0 hsv_g: 85.0 hsv_b:47
+ fps33:74.83414216385955 color: None
+color:None
+r:67 g:22 b:9
+hsv_r:65.0 hsv_g: 85.0 hsv_b:48
+ fps33:59.25497287522604 color: None
+color:None
+r:68 g:22 b:9
+hsv_r:69.0 hsv_g: 86.0 hsv_b:45
+ fps33:61.52892852951531 color: None
+color:None
+r:68 g:22 b:9
+hsv_r:64.0 hsv_g: 85.0 hsv_b:49
+ fps33:73.05749769207992 color: None
+color:None
+r:68 g:22 b:9
+hsv_r:64.0 hsv_g: 85.0 hsv_b:49
+ fps33:77.33289083098254 color: None
+color:None
+r:67 g:22 b:9
+hsv_r:65.0 hsv_g: 85.0 hsv_b:48
+ fps33:86.96823422078461 color: None
+color:None
+r:67 g:22 b:9
+hsv_r:65.0 hsv_g: 85.0 hsv_b:48
+ fps33:71.81043692644843 color: None
+color:None
+r:67 g:22 b:10
+hsv_r:67.0 hsv_g: 85.0 hsv_b:47
+ fps33:78.59947903978411 color: None
+color:None
+r:67 g:22 b:10
+hsv_r:67.0 hsv_g: 85.0 hsv_b:47
+ fps33:78.5670881333708 color: None
+color:None
+r:67 g:22 b:10
+hsv_r:67.0 hsv_g: 85.0 hsv_b:47
+ fps33:75.15192345594954 color: None
+color:None
+r:67 g:22 b:10
+hsv_r:67.0 hsv_g: 85.0 hsv_b:47
+ fps33:78.95160470588235 color: None
+color:None
